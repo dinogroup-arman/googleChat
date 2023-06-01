@@ -1,0 +1,255 @@
+Event Name,Event Description,Admin,Date,IP Address
+USER_SETTINGS,Password changed for ewilliams@dinogroup.com,asantos@dinogroup.com,2021-04-06T16:44:22.001Z,173.56.56.13
+USER_SETTINGS,Password changed for egrossman@dghllc.com,asantos@dinogroup.com,2021-04-02T13:35:14.471Z,173.56.56.13
+MOBILE_SETTINGS,APPROVE with id 2062495389329049702 on device type iOS and id ABczYE/8LF+mBZZ3A2/0BosMzKFRavMVwVs27z3aXzkTZRubG3dkJK1FgdGENFQoO3CI4TGG5dol YYdjVZkaj/4JSKTl was requested by user rortiz@dinogroup.com,rortiz@dinogroup.com,2021-04-01T16:10:23.788Z,
+USER_SETTINGS,Password changed for psambamurti@dinogroup.com,asantos@dinogroup.com,2021-04-01T14:04:38.293Z,173.56.13.106
+USER_SETTINGS,egrossman@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step/New York 2-factor,asantos@dinogroup.com,2021-03-29T15:43:30.120Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 5885e9a0-782b-4590-acec-5d54dda993c0 ,asantos@dinogroup.com,2021-03-25T15:19:27.408Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 5885e9a0-782b-4590-acec-5d54dda993c0 RELATED_ALERT_ID: 12d4356f-0600-420e-aa5b-b70ff0aad14a 18e5f3eb-2308-48da-ac10-9bb4252bbd05 2d33b6a2-4f5d-4097-aabf-cc30e71d74fc 30f8ff71-009a-4399-9bc7-3b7f93912de9 42f46904-6e23-4c99-b19e-b5c793fd53ab 43e3d429-13ba-4492-9187-74fd10923810 7a7e07dc-67f2-45b0-b526-78a723d2df38 83e09b36-6435-49fb-913b-fa86320d087d 8fe26b38-fd0f-449d-91b8-541cf904c0ef 9cba15ea-ed6d-4643-8874-7369e41904c8 bda78f9f-72a7-4672-8fc7-44d25f0cb931 c3dedcd1-5da4-471d-99a3-f51d3d2ba8ea d53e3305-d144-4371-9ae6-145a33790d7e f7dae599-93e3-436b-93e4-fd9962f3ea29 f843d66a-a011-4a9c-8808-7aef31cede2c fa179925-a2cb-45ba-b26d-66037cb68069 ,asantos@dinogroup.com,2021-03-25T15:19:27.374Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 5885e9a0-782b-4590-acec-5d54dda993c0 RELATED_ALERT_ID: 12d4356f-0600-420e-aa5b-b70ff0aad14a 18e5f3eb-2308-48da-ac10-9bb4252bbd05 2d33b6a2-4f5d-4097-aabf-cc30e71d74fc 30f8ff71-009a-4399-9bc7-3b7f93912de9 42f46904-6e23-4c99-b19e-b5c793fd53ab 43e3d429-13ba-4492-9187-74fd10923810 7a7e07dc-67f2-45b0-b526-78a723d2df38 83e09b36-6435-49fb-913b-fa86320d087d 8fe26b38-fd0f-449d-91b8-541cf904c0ef 9cba15ea-ed6d-4643-8874-7369e41904c8 bda78f9f-72a7-4672-8fc7-44d25f0cb931 c3dedcd1-5da4-471d-99a3-f51d3d2ba8ea d53e3305-d144-4371-9ae6-145a33790d7e f7dae599-93e3-436b-93e4-fd9962f3ea29 f843d66a-a011-4a9c-8808-7aef31cede2c fa179925-a2cb-45ba-b26d-66037cb68069 ,asantos@dinogroup.com,2021-03-25T15:19:27.007Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 5885e9a0-782b-4590-acec-5d54dda993c0 ,asantos@dinogroup.com,2021-03-25T15:19:26.200Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 5885e9a0-782b-4590-acec-5d54dda993c0 ,asantos@dinogroup.com,2021-03-25T15:19:25.328Z,173.56.13.106
+GROUP_SETTINGS,User mcrispino@dinogroup.co.uk created under group postmaster@dinogroup.eu,rortiz@dinogroup.com,2021-03-25T14:53:11.426Z,151.202.17.20
+GROUP_SETTINGS,User mmattia@dinogroup.co.uk created under group postmaster@dinogroup.eu,rortiz@dinogroup.com,2021-03-25T14:52:38.239Z,151.202.17.20
+GROUP_SETTINGS,User mcrispino@dinogroup.co.uk created under group postmaster@dinogroup.co.uk,rortiz@dinogroup.com,2021-03-25T14:51:04.175Z,151.202.17.20
+GROUP_SETTINGS,User mmattia@dinogroup.co.uk created under group postmaster@dinogroup.co.uk,rortiz@dinogroup.com,2021-03-25T14:50:01.576Z,151.202.17.20
+GROUP_SETTINGS,User postmaster@dinogroup.co.uk created under group postmaster@dinogroup.com,asantos@dinogroup.com,2021-03-25T14:42:18.694Z,173.56.13.106
+GROUP_SETTINGS,User postmaster@dinogroup.co.uk created under group postmaster@dinogroup.com,asantos@dinogroup.com,2021-03-25T14:36:41.069Z,173.56.13.106
+GROUP_SETTINGS,User postmaster@dinogroup.eu created under group postmaster@dinogroup.com,asantos@dinogroup.com,2021-03-25T14:36:22.960Z,173.56.13.106
+GROUP_SETTINGS,User zidoveri@gmail.com deleted from group postmaster@dinogroup.com,asantos@dinogroup.com,2021-03-25T14:16:39.901Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 1787468e-c137-4fdb-ba54-fc4c92277a9c 1c8379b3-517a-4683-8353-ee4c6ee88085 204a208e-ec5b-4a99-9467-96e02b26b67f 2bc81be2-2caf-481a-9662-c28057bb22fb 3721c042-0058-4878-8cb3-27b632409dc2 3fc8258a-c128-4e32-8952-fc92dfa65d48 527a020c-3703-4174-916a-996d66a2af49 564da33b-96c4-4b8e-88a4-55013d814ce7 5885e9a0-782b-4590-acec-5d54dda993c0 72382ec7-e174-41db-b2cd-646b28e8ea82 80cfd3c6-3a1b-4109-8d09-29f95ea39376 82945de0-9cd0-4201-b247-40cbd841bd98 84994d7e-20df-4427-95f3-da9bdcd57cd2 9a657657-6eeb-4cd7-8d9d-2a51e14443e6 9cba15ea-ed6d-4643-8874-7369e41904c8 c984126d-05fc-4ca8-aaa2-3a3e84b5cadf d80c73c7-8347-4767-a36b-2fbe120d8260 f30013b6-b097-4405-9a3a-d0abf967f4bb f59aea05-50b6-40c9-8711-ad88ba386a50 f843d66a-a011-4a9c-8808-7aef31cede2c ,asantos@dinogroup.com,2021-03-25T14:09:05.430Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: 4a75e3e9-5493-4f31-8b0e-dca7a10fc6a8 ,rortiz@dinogroup.com,2021-03-24T19:10:44.344Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 4a75e3e9-5493-4f31-8b0e-dca7a10fc6a8 RELATED_ALERT_ID: 1544d19c-627b-4ccd-b13d-3fedf3bd4065 182bdd23-91ed-4aa3-af06-7e30dac326d8 2671357a-11ec-44f9-8493-d41b9687e845 29872517-b865-42ca-94ac-f31625fc7924 30f56392-966b-46da-b617-5da6042a0c41 30f8ff71-009a-4399-9bc7-3b7f93912de9 32b1e3db-9932-459c-a916-e7c6a534abbb 35a7da9b-3d1d-415e-9d43-20c3ba2ea464 36585dc8-c64d-41b3-ad14-ecbab0847862 4b1ed5e5-5d48-4d63-bea3-2a62b9f3a423 51c824f4-1a16-490e-9806-ea25af442036 5b3d4a0a-4500-45c3-8cd6-fc96f522091c 81692d1f-1b25-47bb-a4b3-b50f6c624fc7 91ded7bb-3789-4e0c-b4ba-a75c33418e66 9a39cf7d-230a-4e9b-888a-a5218a3035a0 9e6b6faa-773c-42de-912b-e5dbc4cf47f9 e88b124b-0665-4767-a203-7753b924dd5c fb6ba8c2-a83f-4319-abb7-91ebc0b01126 ,rortiz@dinogroup.com,2021-03-24T19:10:44.313Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 4a75e3e9-5493-4f31-8b0e-dca7a10fc6a8 RELATED_ALERT_ID: 1544d19c-627b-4ccd-b13d-3fedf3bd4065 182bdd23-91ed-4aa3-af06-7e30dac326d8 2671357a-11ec-44f9-8493-d41b9687e845 29872517-b865-42ca-94ac-f31625fc7924 30f56392-966b-46da-b617-5da6042a0c41 30f8ff71-009a-4399-9bc7-3b7f93912de9 32b1e3db-9932-459c-a916-e7c6a534abbb 35a7da9b-3d1d-415e-9d43-20c3ba2ea464 36585dc8-c64d-41b3-ad14-ecbab0847862 4b1ed5e5-5d48-4d63-bea3-2a62b9f3a423 51c824f4-1a16-490e-9806-ea25af442036 5b3d4a0a-4500-45c3-8cd6-fc96f522091c 81692d1f-1b25-47bb-a4b3-b50f6c624fc7 91ded7bb-3789-4e0c-b4ba-a75c33418e66 9a39cf7d-230a-4e9b-888a-a5218a3035a0 9e6b6faa-773c-42de-912b-e5dbc4cf47f9 e88b124b-0665-4767-a203-7753b924dd5c fb6ba8c2-a83f-4319-abb7-91ebc0b01126 ,rortiz@dinogroup.com,2021-03-24T19:10:43.880Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 4a75e3e9-5493-4f31-8b0e-dca7a10fc6a8 ,rortiz@dinogroup.com,2021-03-24T19:10:42.988Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 4a75e3e9-5493-4f31-8b0e-dca7a10fc6a8 ,rortiz@dinogroup.com,2021-03-24T19:10:41.967Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 10fe1bd6-3119-429c-b6b9-f127c9123839 ,rortiz@dinogroup.com,2021-03-24T19:10:05.675Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 10fe1bd6-3119-429c-b6b9-f127c9123839 ,rortiz@dinogroup.com,2021-03-24T19:10:05.242Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 10fe1bd6-3119-429c-b6b9-f127c9123839 ,rortiz@dinogroup.com,2021-03-24T19:10:04.513Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 10fe1bd6-3119-429c-b6b9-f127c9123839 ,rortiz@dinogroup.com,2021-03-24T19:10:03.455Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 10fe1bd6-3119-429c-b6b9-f127c9123839 30f56392-966b-46da-b617-5da6042a0c41 30f8ff71-009a-4399-9bc7-3b7f93912de9 32b1e3db-9932-459c-a916-e7c6a534abbb 3542ade5-38c0-4f66-a348-25a6aaf1fe5a 4a75e3e9-5493-4f31-8b0e-dca7a10fc6a8 51c824f4-1a16-490e-9806-ea25af442036 541205fb-98c8-4845-bd22-6891a187efd1 6191d1ea-2614-4fbe-99ea-f2372a3d56db 64453c9b-3986-4044-97fb-b08ff21541f3 7f356536-fcfb-4763-a8db-f4c1a00b0385 a43f97d7-e222-4e5b-b22d-cd6c703c0acb bd24dc8f-e9d0-4f91-9bfc-065a5ea852f5 bda78f9f-72a7-4672-8fc7-44d25f0cb931 c3dedcd1-5da4-471d-99a3-f51d3d2ba8ea ce19efe1-4608-4c77-9532-b1ec2824e749 e5c13ee3-04b7-4498-b401-ae69be8f6e7e ec30cd90-eda3-4440-bdcc-47e070966021 f3dece36-239a-4d1a-b91f-9ac308637dae fb6ba8c2-a83f-4319-abb7-91ebc0b01126 ,rortiz@dinogroup.com,2021-03-24T19:09:58.913Z,151.202.17.20
+USER_SETTINGS,Password changed for cgsupport@dinogroup.com,ccaldwell@reseller.horizoninfoservices.com,2021-03-24T15:56:03.927Z,108.20.202.100
+USER_SETTINGS,rcatroppa@dinogroup.com suspended,asantos@dinogroup.com,2021-03-19T16:25:56.464Z,173.56.13.106
+GROUP_SETTINGS,User egrossman@dinogroup.com created under group broadcastnyc@dinogroup.com,asantos@dinogroup.com,2021-03-18T13:26:21.318Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was assigned to the user egrossman@dinogroup.com,,2021-03-18T13:25:56.935Z,
+USER_SETTINGS,egrossman@dinogroup.com created,asantos@dinogroup.com,2021-03-18T13:25:45.452Z,173.56.13.106
+USER_SETTINGS,Password changed for ewilliams@dinogroup.com,asantos@dinogroup.com,2021-03-15T18:33:42.263Z,173.56.13.106
+GROUP_SETTINGS,User jleighton@dcmadvisors.com created under group clientservice@dcmadvisors.com,asantos@dinogroup.com,2021-03-12T13:43:01.416Z,173.56.13.106
+GROUP_SETTINGS,User mrappaport@dcmadvisors.com created under group clientservice@dcmadvisors.com,asantos@dinogroup.com,2021-03-12T13:42:49.153Z,173.56.13.106
+GROUP_SETTINGS,Group clientservice@dcmadvisors.com created,asantos@dinogroup.com,2021-03-12T13:42:48.638Z,173.56.13.106
+GROUP_SETTINGS,User jleighton@dcmadvisors.com created under group service@dcmadvisors.com,asantos@dinogroup.com,2021-03-12T13:41:38.397Z,173.56.13.106
+GROUP_SETTINGS,User mrappaport@dcmadvisors.com created under group service@dcmadvisors.com,asantos@dinogroup.com,2021-03-12T13:41:20.727Z,173.56.13.106
+GROUP_SETTINGS,Group service@dcmadvisors.com created,asantos@dinogroup.com,2021-03-12T13:41:19.678Z,173.56.13.106
+GROUP_SETTINGS,User agiorgio@dinogroup.com deleted from group compliance@dcmadvisors.com,asantos@dinogroup.com,2021-03-10T23:21:17.867Z,173.56.13.106
+DELEGATED_ADMIN_SETTINGS,Role Reports assigned to user sbourke@dinogroup.com,asantos@dinogroup.com,2021-03-08T16:11:20.162Z,173.56.13.106
+DELEGATED_ADMIN_SETTINGS,New role Reports created,asantos@dinogroup.com,2021-03-08T16:11:03.672Z,173.56.13.106
+USER_SETTINGS,Password changed for psambamurti@dinogroup.com,asantos@dinogroup.com,2021-03-08T15:42:43.627Z,173.56.13.106
+USER_SETTINGS,pwachtel@dcmadvisors.com moved from /dinogroup.com/new users to /dcmadvisors.com 2-step,asantos@dinogroup.com,2021-03-02T21:23:06.730Z,173.56.13.106
+GROUP_SETTINGS,User pwachtel@dcmadvisors.com created under group broadcast@dcmadvisors.com,asantos@dinogroup.com,2021-03-02T17:51:00.990Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was assigned to the user pwachtel@dcmadvisors.com,,2021-03-02T17:50:50.747Z,
+USER_SETTINGS,pwachtel@dcmadvisors.com created,asantos@dinogroup.com,2021-03-02T17:50:39.852Z,173.56.13.106
+USER_SETTINGS,muctum@dcmadvisors.com suspended,asantos@dinogroup.com,2021-03-02T17:39:58.822Z,173.56.13.106
+MOBILE_SETTINGS,APPROVE with id 997742702584323576 on device type iOS and id ABczYE/JVL7NbGjAA+H0NHy8A27QJGp0B63fGTkdndlYFW0PKS+5dhyXqQPyHt0X9P4qZqLsg/q6 G0Ro9uOKL8Y1ZTjo was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2021-03-01T13:14:40.830Z,
+USER_SETTINGS,lcampos@dinogroup.com moved from /dinogroup.eu/Remote to /dinogroup.com/User Accounts 2-step,asantos@dinogroup.com,2021-02-26T15:04:13.207Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: e0f2e61c-297f-49c3-b57a-08cde0693684 ,rortiz@dinogroup.com,2021-02-26T02:39:39.663Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: e0f2e61c-297f-49c3-b57a-08cde0693684 ,rortiz@dinogroup.com,2021-02-26T02:39:39.290Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: e0f2e61c-297f-49c3-b57a-08cde0693684 ,rortiz@dinogroup.com,2021-02-26T02:39:38.624Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: e0f2e61c-297f-49c3-b57a-08cde0693684 ,rortiz@dinogroup.com,2021-02-26T02:39:37.637Z,151.202.17.20
+EMAIL_SETTINGS,New gmail setting INBOUND_GATEWAY was added,asantos@dinogroup.com,2021-02-25T18:15:52.442Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was revoked from user mbutler@dinogroup.com,,2021-02-22T21:44:45.298Z,
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was revoked from user aperas@dinogroup.com,,2021-02-22T21:44:29.358Z,
+USER_SETTINGS,mbutler@dinogroup.com deleted,rortiz@dinogroup.com,2021-02-22T21:44:20.358Z,
+USER_SETTINGS,mmerola@dinogroup.com deleted,rortiz@dinogroup.com,2021-02-22T21:44:18.136Z,
+USER_SETTINGS,aperas@dinogroup.com deleted,rortiz@dinogroup.com,2021-02-22T21:44:17.726Z,
+USER_SETTINGS,Data transfer request created from aperas@dinogroup.com to agiorgio@dinogroup.com for apps Drive and Docs[include private data],rortiz@dinogroup.com,2021-02-22T21:44:14.229Z,151.202.17.20
+USER_SETTINGS,Data transfer request created from mbutler@dinogroup.com to agiorgio@dinogroup.com for apps Drive and Docs[include private data],rortiz@dinogroup.com,2021-02-22T21:44:14.031Z,151.202.17.20
+USER_SETTINGS,Data transfer request created from mmerola@dinogroup.com to agiorgio@dinogroup.com for apps Drive and Docs[include private data],rortiz@dinogroup.com,2021-02-22T21:44:13.814Z,151.202.17.20
+EMAIL_SETTINGS,Gmail setting SPAM_CONTROL was modified,ccaldwell@reseller.horizoninfoservices.com,2021-02-22T15:09:16.822Z,108.20.202.100
+EMAIL_SETTINGS,Gmail setting APPROVED_ADDRESS_LIST was modified,ccaldwell@reseller.horizoninfoservices.com,2021-02-22T15:09:07.570Z,108.20.202.100
+USER_SETTINGS,nmadhiwalla@dcmadvisors.com moved from /dinogroup.com/new users to /dcmadvisors.com 2-step,asantos@dinogroup.com,2021-02-19T18:11:18.716Z,173.56.13.106
+GROUP_SETTINGS,User nmadhiwalla@dcmadvisors.com created under group broadcast@dcmadvisors.com,asantos@dinogroup.com,2021-02-18T13:27:37.072Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was assigned to the user nmadhiwalla@dcmadvisors.com,,2021-02-18T13:27:29.507Z,
+USER_SETTINGS,nmadhiwalla@dcmadvisors.com created,asantos@dinogroup.com,2021-02-18T13:27:17.697Z,173.56.13.106
+GROUP_SETTINGS,User scollopy@dcmadvisors.com created under group cyber-team@dinogroup.com,asantos@dinogroup.com,2021-02-16T18:08:14.142Z,173.56.13.106
+USER_SETTINGS,lkestelman@dinogroup.com moved from /dinogroup.eu/Remote to /dinogroup.com/User Accounts 2-step/New York 2-factor,asantos@dinogroup.com,2021-02-16T16:08:19.898Z,173.56.13.106
+GROUP_SETTINGS,User asantos@dinogroup.com created under group cyber-team@dinogroup.com,rortiz@dinogroup.com,2021-02-11T20:25:40.952Z,151.202.17.20
+GROUP_SETTINGS,User rortiz@dinogroup.com created under group cyber-team@dinogroup.com,rortiz@dinogroup.com,2021-02-11T20:24:49.445Z,151.202.17.20
+GROUP_SETTINGS,WHO_CAN_JOIN for group cyber-team@dinogroup.com changed from CAN_REQUEST_TO_JOIN to INVITED_CAN_JOIN,rortiz@dinogroup.com,2021-02-11T20:24:49.190Z,151.202.17.20
+GROUP_SETTINGS,Group cyber-team@dinogroup.com created,rortiz@dinogroup.com,2021-02-11T20:24:48.423Z,151.202.17.20
+MOBILE_SETTINGS,APPROVE with id 5609127423482405141 on device type ANDROID and id 3818f3afb8447683 was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2021-02-11T20:14:39.914Z,
+USER_SETTINGS,New 2-step verification scratch codes generated for the user ngary@dinogroup.com,asantos@dinogroup.com,2021-02-10T19:52:59.305Z,173.56.13.106
+GROUP_SETTINGS,User bfreeman@dinogroup.com created under group usonboarding@dinogroup.com,asantos@dinogroup.com,2021-01-27T14:30:06.082Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting SPAM_CONTROL was modified,asantos@dinogroup.com,2021-01-25T21:37:20.823Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting APPROVED_ADDRESS_LIST was modified,asantos@dinogroup.com,2021-01-25T21:36:29.846Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting TLS_COMPLIANCE was modified,asantos@dinogroup.com,2021-01-21T15:10:48.278Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting TLS_COMPLIANCE was modified,asantos@dinogroup.com,2021-01-21T15:08:00.165Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting APPROVED_ADDRESS_LIST was modified,asantos@dinogroup.com,2021-01-21T15:07:40.164Z,173.56.13.106
+EMAIL_SETTINGS,New gmail setting APPROVED_ADDRESS_LIST was added,asantos@dinogroup.com,2021-01-21T15:07:13.648Z,173.56.13.106
+MOBILE_SETTINGS,APPROVE with id 5267579407189113251 on device type ANDROID and id 3aedb632d80cdc38 was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2021-01-20T18:01:18.124Z,
+SECURITY_SETTINGS,Allow 2-Step Verification has been set from INHERIT_FROM_PARENT to true for {DOMAIN_NAME},mcrispino@dinogroup.co.uk,2021-01-18T13:40:09.030Z,
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was assigned to the user jcurti@dinogroup.com,,2021-01-18T13:38:08.025Z,
+USER_SETTINGS,mmerola@dinogroup.com suspended,rortiz@dinogroup.com,2021-01-14T18:10:58.424Z,151.202.17.20
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was revoked from user jwmatsikoudis@dcmadvisors.com,,2021-01-14T15:47:31.831Z,
+USER_SETTINGS,jwmatsikoudis@dcmadvisors.com deleted,rortiz@dinogroup.com,2021-01-14T15:47:20.660Z,
+USER_SETTINGS,Data transfer request created from jwmatsikoudis@dcmadvisors.com to scollopy@dcmadvisors.com for apps Drive and Docs,rortiz@dinogroup.com,2021-01-14T15:47:16.863Z,151.202.17.20
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was revoked from user rsmith@dinogroup.com,,2021-01-14T15:46:54.392Z,
+USER_SETTINGS,rsmith@dinogroup.com deleted,rortiz@dinogroup.com,2021-01-14T15:46:42.969Z,151.202.17.20
+USER_SETTINGS,osalem@dinogroup.com deleted,rortiz@dinogroup.com,2021-01-14T15:46:42.955Z,151.202.17.20
+USER_SETTINGS,jknight@dinogroup.com deleted,rortiz@dinogroup.com,2021-01-14T15:46:42.955Z,151.202.17.20
+GROUP_SETTINGS,User mcure@dinogroup.com deleted from group dinogroupopsnyc@dinogroup.com,rortiz@dinogroup.com,2021-01-14T15:41:00.001Z,151.202.17.20
+EMAIL_SETTINGS,Gmail setting SPAM_CONTROL was modified,asantos@dinogroup.com,2021-01-11T22:19:07.357Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting APPROVED_ADDRESS_LIST was modified,asantos@dinogroup.com,2021-01-11T22:18:59.665Z,173.56.13.106
+EMAIL_SETTINGS,New gmail setting APPROVED_ADDRESS_LIST was added,asantos@dinogroup.com,2021-01-11T22:18:05.375Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting SPAM_CONTROL was modified,asantos@dinogroup.com,2021-01-11T22:16:42.082Z,173.56.13.106
+USER_SETTINGS,cfierro@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step/New York 2-factor,asantos@dinogroup.com,2021-01-08T19:40:04.369Z,173.56.13.106
+USER_SETTINGS,Password changed for cfierro@dinogroup.com,asantos@dinogroup.com,2021-01-08T19:33:16.299Z,173.56.13.106
+USER_SETTINGS,mperez@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step,rortiz@dinogroup.com,2021-01-08T18:44:38.105Z,151.202.17.20
+APPLICATION_SETTINGS, AdminAccountRecoverySettingsProto Enable admin account recovery created with value true,rortiz@dinogroup.com,2021-01-08T18:38:29.123Z,151.202.17.20
+APPLICATION_SETTINGS, AccountRecoverySettingsProto Enable password recovery created with value true,rortiz@dinogroup.com,2021-01-08T18:38:22.754Z,151.202.17.20
+USER_SETTINGS,Password changed for mperez@dinogroup.com,rortiz@dinogroup.com,2021-01-08T18:37:54.962Z,151.202.17.20
+USER_SETTINGS,Password changed for psambamurti@dinogroup.com,asantos@dinogroup.com,2021-01-07T14:53:59.972Z,173.56.13.106
+GROUP_SETTINGS,User ahakimov@dinogroup.co.uk created under group maybank@dinogroup.co.uk,mmattia@dinogroup.co.uk,2021-01-07T13:06:26.022Z,5.95.158.23
+GROUP_SETTINGS,WHO_CAN_JOIN for group maybank@dinogroup.co.uk changed from CAN_REQUEST_TO_JOIN to ALL_IN_DOMAIN_CAN_JOIN,mmattia@dinogroup.co.uk,2021-01-07T13:03:54.953Z,5.95.158.23
+USER_SETTINGS,nmandato@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step/Red Bank 2-factor,asantos@dinogroup.com,2021-01-04T16:19:53.438Z,173.56.13.106
+GROUP_SETTINGS,User nmandato@dinogroup.com created under group broadcastnj@dinogroup.com,asantos@dinogroup.com,2021-01-04T15:37:28.560Z,173.56.13.106
+GROUP_SETTINGS,User nmandato@dinogroup.com created under group broadcastnyc@dinogroup.com,asantos@dinogroup.com,2021-01-04T15:37:28.296Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was assigned to the user nmandato@dinogroup.com,,2021-01-04T15:37:07.882Z,
+USER_SETTINGS,nmandato@dinogroup.com created,asantos@dinogroup.com,2021-01-04T15:36:56.190Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was revoked from user spikowski@dinogroup.com,,2021-01-04T15:35:27.967Z,
+USER_SETTINGS,spikowski@dinogroup.com deleted,asantos@dinogroup.com,2021-01-04T15:35:16.204Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and Google Workspace Enterprise Standard sku was revoked from user jberry@dinogroup.com,,2021-01-04T15:34:49.233Z,
+USER_SETTINGS,jberry@dinogroup.com deleted,asantos@dinogroup.com,2021-01-04T15:34:38.362Z,173.56.13.106
+USER_SETTINGS,gsilverstein@dinogroup.com suspended,rortiz@dinogroup.com,2021-01-04T15:05:10.965Z,151.202.17.20
+USER_SETTINGS,aperas@dinogroup.com suspended,rortiz@dinogroup.com,2021-01-04T15:04:50.694Z,151.202.17.20
+USER_SETTINGS,mbutler@dinogroup.com suspended,asantos@dinogroup.com,2020-12-31T22:59:27.237Z,173.56.13.106
+USER_SETTINGS,Password changed for ajames@dinogroup.com,asantos@dinogroup.com,2020-12-31T13:49:42.408Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was revoked from user jslopez@dinogroup.co.uk,,2020-12-30T20:37:50.868Z,
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was revoked from user fchiappone@rmrwm.com,,2020-12-30T20:37:34.539Z,
+ALERT_CENTER,ALERT_ID: 463d03d0-2e6d-4fe6-a2b4-5ea81bfe242d ,rortiz@dinogroup.com,2020-12-21T15:55:31.782Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 463d03d0-2e6d-4fe6-a2b4-5ea81bfe242d ,rortiz@dinogroup.com,2020-12-21T15:55:31.302Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 463d03d0-2e6d-4fe6-a2b4-5ea81bfe242d ,rortiz@dinogroup.com,2020-12-21T15:55:30.503Z,151.202.17.20
+ALERT_CENTER,ALERT_ID: 463d03d0-2e6d-4fe6-a2b4-5ea81bfe242d ,rortiz@dinogroup.com,2020-12-21T15:55:29.307Z,151.202.17.20
+USER_SETTINGS,Password changed for psambamurti@dinogroup.com,asantos@dinogroup.com,2020-12-21T15:54:54.424Z,173.56.13.106
+APPLICATION_SETTINGS, ChatUiProto ui_option changed from DYNAMITE_UI_PREFERRED to DYNAMITE_AND_CLASSIC_UI,mcrispino@dinogroup.co.uk,2020-12-16T15:35:40.020Z,31.192.98.102
+APPLICATION_SETTINGS, ChatUiProto ui_option changed from DYNAMITE_UI_ONLY to DYNAMITE_UI_PREFERRED,mcrispino@dinogroup.co.uk,2020-12-16T15:35:31.115Z,31.192.98.102
+APPLICATION_SETTINGS, ChatUiProto ui_option changed from DYNAMITE_AND_CLASSIC_UI to DYNAMITE_UI_ONLY,mcrispino@dinogroup.co.uk,2020-12-16T15:32:49.482Z,31.192.98.102
+GROUP_SETTINGS,WHO_CAN_VIEW_GROUP for group riskreport@dinogroup.com changed from ALL_MEMBERS_CAN_VIEW to ALL_IN_DOMAIN_CAN_VIEW,asantos@dinogroup.com,2020-12-16T14:36:20.577Z,173.56.13.106
+GROUP_SETTINGS,User rfeeney@dinogroup.com created under group riskreport@dinogroup.com,asantos@dinogroup.com,2020-12-16T14:31:34.768Z,173.56.13.106
+GROUP_SETTINGS,User jsantalla@dinogroup.com created under group riskreport@dinogroup.com,asantos@dinogroup.com,2020-12-16T14:31:10.333Z,173.56.13.106
+GROUP_SETTINGS,Group riskreport@dinogroup.com created,asantos@dinogroup.com,2020-12-16T14:31:09.779Z,173.56.13.106
+APPLICATION_SETTINGS, ChatUiProto ui_option changed from DYNAMITE_UI_ONLY to DYNAMITE_AND_CLASSIC_UI,mcrispino@dinogroup.co.uk,2020-12-15T18:34:47.480Z,86.142.185.149
+APPLICATION_SETTINGS, ChatUiProto ui_option created with value DYNAMITE_UI_ONLY,mmattia@dinogroup.co.uk,2020-12-15T18:25:05.043Z,93.146.135.119
+GROUP_SETTINGS,User apastine@dinogroup.com created under group eodriskreport@dinogroup.com,asantos@dinogroup.com,2020-12-14T18:36:07.214Z,173.56.13.106
+GROUP_SETTINGS,User jsantalla@dinogroup.com created under group eodriskreport@dinogroup.com,asantos@dinogroup.com,2020-12-14T18:33:39.873Z,173.56.13.106
+GROUP_SETTINGS,Group eodriskreport@dinogroup.com created,asantos@dinogroup.com,2020-12-14T18:33:39.309Z,173.56.13.106
+ORG_SETTINGS,Service Google Hangouts changed to true for parkmoorgate.com organizational unit in your organization,asantos@dinogroup.com,2020-12-11T23:08:18.162Z,173.56.13.106
+ORG_SETTINGS,Service Google Chat and classic Hangouts changed to true for parkmoorgate.com organizational unit in your organization,asantos@dinogroup.com,2020-12-11T23:08:18.162Z,173.56.13.106
+APPLICATION_SETTINGS, ChatUiProto ui_option created with value DYNAMITE_AND_CLASSIC_UI,asantos@dinogroup.com,2020-12-11T23:08:17.547Z,173.56.13.106
+ORG_SETTINGS,Service Google Hangouts changed to true for dinogroup.eu organizational unit in your organization,asantos@dinogroup.com,2020-12-11T23:01:49.463Z,173.56.13.106
+ORG_SETTINGS,Service Google Chat and classic Hangouts changed to true for dinogroup.eu organizational unit in your organization,asantos@dinogroup.com,2020-12-11T23:01:49.463Z,173.56.13.106
+APPLICATION_SETTINGS, ChatUiProto ui_option created with value DYNAMITE_AND_CLASSIC_UI,asantos@dinogroup.com,2020-12-11T23:01:48.857Z,173.56.13.106
+ORG_SETTINGS,Service Google Hangouts changed to false for Dinosaur Group organizational unit in your organization,asantos@dinogroup.com,2020-12-11T23:01:18.277Z,173.56.13.106
+ORG_SETTINGS,Service Google Chat and classic Hangouts changed to true for Dinosaur Group organizational unit in your organization,asantos@dinogroup.com,2020-12-11T23:01:18.277Z,173.56.13.106
+APPLICATION_SETTINGS, ChatUiProto ui_option created with value DYNAMITE_UI_ONLY,asantos@dinogroup.com,2020-12-11T23:01:17.635Z,173.56.13.106
+GROUP_SETTINGS,User mdebueriis@dinogroup.com deleted from group broadcast@dcmadvisors.com,asantos@dinogroup.com,2020-12-10T13:39:15.878Z,173.56.13.106
+GROUP_SETTINGS,User mdebueriis@dinogroup.com deleted from group accounting@dcmadvisors.com,asantos@dinogroup.com,2020-12-10T13:39:11.650Z,173.56.13.106
+GROUP_SETTINGS,User mdebueriis@dinogroup.com deleted from group operations@dcmadvisors.com,asantos@dinogroup.com,2020-12-10T13:38:58.904Z,173.56.13.106
+USER_SETTINGS,cfiero@dinogroup.com renamed to cfierro@dinogroup.com,asantos@dinogroup.com,2020-12-09T16:39:30.855Z,173.56.13.106
+USER_SETTINGS,cfiero@dinogroup.com deleted as a nickname of cfierro@dinogroup.com,asantos@dinogroup.com,2020-12-09T16:39:19.574Z,173.56.13.106
+USER_SETTINGS,Last name of cfiero@dinogroup.com changed from Fiero to Fierro,asantos@dinogroup.com,2020-12-09T16:38:23.804Z,173.56.13.106
+GROUP_SETTINGS,User cfiero@dinogroup.com created under group broadcastnyc@dinogroup.com,asantos@dinogroup.com,2020-12-09T15:35:58.830Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user cfiero@dinogroup.com,,2020-12-09T15:35:53.073Z,
+USER_SETTINGS,cfiero@dinogroup.com created,asantos@dinogroup.com,2020-12-09T15:35:41.199Z,173.56.13.106
+GROUP_SETTINGS,User ncaballero@dinogroup.com created under group compliance-hr@dinogroup.com,rortiz@dinogroup.com,2020-12-09T15:06:19.633Z,151.202.17.20
+GROUP_SETTINGS,User mdimino@dinogroup.com deleted from group securitysetups@dinogroup.com,asantos@dinogroup.com,2020-12-08T16:16:14.029Z,173.56.13.106
+GROUP_SETTINGS,User dinogroupopsnyc@dinogroup.com created under group securitysetups@dinogroup.com,asantos@dinogroup.com,2020-12-08T16:16:08.050Z,173.56.13.106
+GROUP_SETTINGS,User mdimino@dinogroup.com created under group securitysetups@dinogroup.com,asantos@dinogroup.com,2020-12-08T16:14:50.690Z,173.56.13.106
+GROUP_SETTINGS,Group securitysetups@dinogroup.com created,asantos@dinogroup.com,2020-12-08T16:14:49.954Z,173.56.13.106
+USER_SETTINGS,Password changed for psambamurti@dinogroup.com,asantos@dinogroup.com,2020-12-04T14:23:49.512Z,173.56.13.106
+GROUP_SETTINGS,WHO_CAN_VIEW_MEMBERSHIP for group marketing@dcmadvisors.com changed from ALL_MEMBERS_CAN_VIEW to ALL_IN_DOMAIN_CAN_VIEW,asantos@dinogroup.com,2020-12-03T20:40:32.713Z,173.56.13.106
+GROUP_SETTINGS,User jleighton@dcmadvisors.com created under group marketing@dcmadvisors.com,asantos@dinogroup.com,2020-12-03T20:39:02.342Z,173.56.13.106
+GROUP_SETTINGS,Group marketing@dcmadvisors.com created,asantos@dinogroup.com,2020-12-03T20:39:01.447Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: c884a514-1c5d-4af0-beb0-60bc4a26ffb5 RELATED_ALERT_ID: 46eaec04-e447-4885-b534-55f8d635ca80 72b05756-cd67-4fcf-a7e9-59452682c7c3 ,asantos@dinogroup.com,2020-12-03T13:51:18.874Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: c884a514-1c5d-4af0-beb0-60bc4a26ffb5 ,asantos@dinogroup.com,2020-12-03T13:51:18.818Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: c884a514-1c5d-4af0-beb0-60bc4a26ffb5 RELATED_ALERT_ID: 46eaec04-e447-4885-b534-55f8d635ca80 72b05756-cd67-4fcf-a7e9-59452682c7c3 ,asantos@dinogroup.com,2020-12-03T13:51:18.420Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: c884a514-1c5d-4af0-beb0-60bc4a26ffb5 ,asantos@dinogroup.com,2020-12-03T13:51:17.621Z,173.56.13.106
+ALERT_CENTER,ALERT_ID: c884a514-1c5d-4af0-beb0-60bc4a26ffb5 ,asantos@dinogroup.com,2020-12-03T13:51:16.285Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user clientservices@dinogroup.co.uk,,2020-12-02T10:26:37.742Z,
+MOBILE_SETTINGS,APPROVE with id 5583587680172251583 on device type iOS and id ABczYE8WZ1DxoN2AAPFP2ihtrJJCeHfZddOuVqGtOfJau98NLsSeKiEgsNuliQwDrnJhMxNP0tFO 5WTUHagmW9j9TSiK was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2020-11-30T15:28:20.050Z,
+USER_SETTINGS,jleighton@dcmadvisors.com moved from /dinogroup.com/new users to /dcmadvisors.com 2-step,asantos@dinogroup.com,2020-11-30T14:08:55.128Z,173.56.13.106
+GROUP_SETTINGS,User sapplegate@dinogroup.com created under group nycompliance@dinogroup.com,asantos@dinogroup.com,2020-11-24T15:20:59.818Z,173.56.13.106
+GROUP_SETTINGS,User sford@dinogroup.com created under group dinogroupopsnyc@dinogroup.com,asantos@dinogroup.com,2020-11-23T15:59:46.883Z,173.56.13.106
+GROUP_SETTINGS,User fromero@dinogroup.eu created under group reportingerrors@dinogroup.co.uk,mmattia@dinogroup.co.uk,2020-11-23T10:15:24.048Z,93.146.135.119
+GROUP_SETTINGS,WHO_CAN_VIEW_MEMBERSHIP for group reportingerrors@dinogroup.co.uk changed from ALL_MEMBERS_CAN_VIEW to ALL_IN_DOMAIN_CAN_VIEW,mmattia@dinogroup.co.uk,2020-11-23T10:11:15.487Z,93.146.135.119
+MOBILE_SETTINGS,APPROVE with id 8460220490098457054 on device type iOS and id ABczYE/advoQp+iQ8kpFLc905wI5sNMQOhWT69Rl9kCTBzR0pfcZQG8HrJK0cp87T4m7xrT8hbZA QRkG8Db9kx06D0Io was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2020-11-18T18:47:26.799Z,
+USER_SETTINGS,mdm-test@dinogroup.com renamed to it-test@dinogroup.com,asantos@dinogroup.com,2020-11-16T19:52:07.036Z,173.56.13.106
+USER_SETTINGS,User list was downloaded as a CSV file,mdm-test@dinogroup.com,2020-11-16T19:49:03.563Z,173.56.13.106
+DELEGATED_ADMIN_SETTINGS,Role Complaince assigned to user mdm-test@dinogroup.com,asantos@dinogroup.com,2020-11-16T19:47:12.981Z,173.56.13.106
+DELEGATED_ADMIN_SETTINGS,New role Complaince created,asantos@dinogroup.com,2020-11-16T19:46:58.750Z,173.56.13.106
+USER_SETTINGS,Password changed for mdm-test@dinogroup.com,asantos@dinogroup.com,2020-11-16T19:45:09.948Z,173.56.13.106
+USER_SETTINGS,Password changed for rbindas@dinogroup.com,asantos@dinogroup.com,2020-11-16T16:29:31.216Z,173.56.13.106
+USER_SETTINGS,jwmatsikoudis@dcmadvisors.com suspended,asantos@dinogroup.com,2020-11-16T15:40:19.696Z,173.56.13.106
+USER_SETTINGS,Password changed for mbutler@dinogroup.com,asantos@dinogroup.com,2020-11-16T14:06:12.957Z,173.56.13.106
+GROUP_SETTINGS,User jleighton@dcmadvisors.com created under group broadcastnyc@dinogroup.com,asantos@dinogroup.com,2020-11-16T12:48:35.983Z,173.56.13.106
+GROUP_SETTINGS,User jleighton@dcmadvisors.com created under group broadcast@dcmadvisors.com,asantos@dinogroup.com,2020-11-16T12:48:03.390Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user jleighton@dcmadvisors.com,,2020-11-16T12:48:00.408Z,
+USER_SETTINGS,jleighton@dcmadvisors.com created,asantos@dinogroup.com,2020-11-16T12:47:47.999Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was revoked from user mgreenholtz@dinogroup.com,,2020-11-12T20:00:32.943Z,
+USER_SETTINGS,mgreenholtz@dinogroup.com deleted,asantos@dinogroup.com,2020-11-12T20:00:22.079Z,173.56.13.106
+DELEGATED_ADMIN_SETTINGS,Role Google Vault Auditor assigned to user sbourke@dinogroup.com,asantos@dinogroup.com,2020-11-12T19:43:55.443Z,173.56.13.106
+USER_SETTINGS,rsmith@dinogroup.com suspended,asantos@dinogroup.com,2020-11-12T12:31:34.404Z,173.56.13.106
+USER_SETTINGS,osalem@dinogroup.com suspended,asantos@dinogroup.com,2020-11-12T12:31:03.633Z,173.56.13.106
+USER_SETTINGS,Password changed for securitytokensupport@dinogroup.com,asantos@dinogroup.com,2020-11-11T19:45:36.931Z,173.56.13.106
+USER_SETTINGS,Password changed for rbindas@dinogroup.com,asantos@dinogroup.com,2020-11-11T16:57:49.881Z,173.56.13.106
+GROUP_SETTINGS,User msussman@dinogroup.com created under group invoices@dinogroup.com,asantos@dinogroup.com,2020-11-09T22:02:01.403Z,173.56.13.106
+USER_SETTINGS,Password changed for rdominguez@dinogroup.com,asantos@dinogroup.com,2020-11-09T17:50:30.798Z,173.56.13.106
+USER_SETTINGS,User list was downloaded as a CSV file,asantos@dinogroup.com,2020-11-09T17:15:12.366Z,173.56.13.106
+MOBILE_SETTINGS,APPROVE with id 3731168285025618388 on device type ANDROID and id 3c01ac89206c3906 was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2020-11-05T19:39:41.915Z,
+MOBILE_SETTINGS,APPROVE with id 4555450742983040243 on device type iOS and id ABczYE8EzakXOKjF9+Zbxagn0Z0Mvf/I7NkOpaS7sv7uxRRku30Z32MgVVHneZGMnPiELHbmsfJg k+r9tgrZcr52EXHC was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2020-11-05T19:39:38.184Z,
+USER_SETTINGS,msussman@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step/New York 2-factor,asantos@dinogroup.com,2020-11-05T19:06:07.665Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user nparekh@dinogroup.co.uk,,2020-11-05T15:51:26.362Z,
+EMAIL_SETTINGS,Email restoration from 2020/11/01 04:00 UTC to 2020/11/03 16:06 UTC initiated for mnauman@dinogroup.com,asantos@dinogroup.com,2020-11-03T16:06:35.736Z,173.56.13.106
+GROUP_SETTINGS,WHO_CAN_VIEW_GROUP for group prematch@dinogroup.co.uk changed from ALL_MEMBERS_CAN_VIEW to ALL_IN_DOMAIN_CAN_VIEW,mmattia@dinogroup.co.uk,2020-11-02T11:10:38.528Z,2a00:23c4:7e83:ac00:29c8:55ba:bf2b:7621
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user operations@dinogroup.co.uk,,2020-10-31T08:47:34.646Z,
+USER_SETTINGS,Password changed for agreenstein@dinogroup.com,asantos@dinogroup.com,2020-10-29T15:08:14.162Z,173.56.13.106
+GROUP_SETTINGS,User msussman@dinogroup.com created under group broadcastnyc@dinogroup.com,asantos@dinogroup.com,2020-10-27T16:11:56.781Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user msussman@dinogroup.com,,2020-10-27T16:11:50.562Z,
+USER_SETTINGS,msussman@dinogroup.com created,asantos@dinogroup.com,2020-10-27T16:11:38.926Z,173.56.13.106
+USER_SETTINGS,Password changed for rfeeney@dinogroup.com,asantos@dinogroup.com,2020-10-27T14:57:02.997Z,173.56.13.106
+EMAIL_SETTINGS,New gmail setting UNIFIED_MAIL_ROUTING was added,asantos@dinogroup.com,2020-10-26T17:15:05.433Z,173.56.13.106
+EMAIL_SETTINGS,EMAIL_SPAM_WHITELIST for email service in your organization changed from [72.35.12.0/24  149.14.251.29] to [72.35.12.0/24  149.14.251.29  199.30.235.11/32  74.203.185.12/32],asantos@dinogroup.com,2020-10-26T17:13:20.412Z,173.56.13.106
+EMAIL_SETTINGS,New gmail setting EMAIL_ROUTE was added,asantos@dinogroup.com,2020-10-26T17:11:39.881Z,173.56.13.106
+GROUP_SETTINGS,User pbecker@dinogroup.eu created under group internalsyndications@dinogroup.com,rortiz@dinogroup.com,2020-10-26T15:15:11.911Z,151.202.17.20
+GROUP_SETTINGS,User scontreras@dinogroup.com created under group internalsyndications@dinogroup.com,rortiz@dinogroup.com,2020-10-26T15:14:33.073Z,151.202.17.20
+GROUP_SETTINGS,WHO_CAN_JOIN for group internalsyndications@dinogroup.com changed from CAN_REQUEST_TO_JOIN to INVITED_CAN_JOIN,rortiz@dinogroup.com,2020-10-26T15:08:17.165Z,151.202.17.20
+GROUP_SETTINGS,User bduddy@dinogroup.com created under group internalsyndications@dinogroup.com,rortiz@dinogroup.com,2020-10-26T15:07:24.547Z,151.202.17.20
+GROUP_SETTINGS,Group internalsyndications@dinogroup.com created,rortiz@dinogroup.com,2020-10-26T15:07:23.948Z,151.202.17.20
+USER_SETTINGS,Password changed for hvital@dinogroup.com,asantos@dinogroup.com,2020-10-23T14:34:01.684Z,173.56.13.106
+MOBILE_SETTINGS,APPROVE with id 4060854518920832941 on device type iOS and id ABczYE9ss+Pt9Y9YEhXtVte/Po+/q6ItKOYbFhCXGanVjOZlVt0iXAcZ2rkRSj+VVdA/DLAERrW2 Q9e2meNZunQc0pmK was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2020-10-21T14:34:10.871Z,
+USER_SETTINGS,Data transfer request created from jknight@dinogroup.com to ncaballero@dinogroup.com for apps Drive and Docs[include private data],asantos@dinogroup.com,2020-10-15T16:04:27.986Z,173.56.13.106
+USER_SETTINGS,fdelrosario@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step/New York 2-factor,asantos@dinogroup.com,2020-10-14T18:58:37.125Z,173.56.13.106
+MOBILE_SETTINGS,APPROVE with id 2015050001554138805 on device type ANDROID and id 3fed167e3e77a7c3 was requested by user asantos@dinogroup.com,asantos@dinogroup.com,2020-10-13T12:55:31.181Z,
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user jmclauso@dinogroup.eu,,2020-10-13T11:39:19.955Z,
+USER_SETTINGS,jknight@dinogroup.com suspended,asantos@dinogroup.com,2020-10-12T21:01:58.323Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting CONTENT_COMPLIANCE was modified,ccaldwell@reseller.horizoninfoservices.com,2020-10-12T15:36:25.306Z,108.20.202.100
+EMAIL_SETTINGS,Gmail setting CONTENT_COMPLIANCE was modified,ccaldwell@reseller.horizoninfoservices.com,2020-10-12T15:36:11.642Z,108.20.202.100
+USER_SETTINGS,rhafeez@dinogroup.com moved from /dinogroup.com/new users to /dinogroup.com/User Accounts 2-step/New York 2-factor,asantos@dinogroup.com,2020-10-12T15:08:48.026Z,173.56.13.106
+GROUP_SETTINGS,User rhafeez@dinogroup.com created under group broadcastnyc@dinogroup.com,asantos@dinogroup.com,2020-10-12T14:12:26.258Z,173.56.13.106
+LICENSES_SETTINGS,A license for Google Workspace product and G Suite Business sku was assigned to the user rhafeez@dinogroup.com,,2020-10-12T14:12:21.953Z,
+USER_SETTINGS,rhafeez@dinogroup.com created,asantos@dinogroup.com,2020-10-12T14:12:10.672Z,173.56.13.106
+GROUP_SETTINGS,User sapplegate@dinogroup.com deleted from group nycompliance@dinogroup.com,asantos@dinogroup.com,2020-10-12T14:06:37.163Z,173.56.13.106
+USER_SETTINGS,Password changed for hvital@dinogroup.com,asantos@dinogroup.com,2020-10-09T13:50:33.701Z,173.56.13.106
+GROUP_SETTINGS,User asantos@dinogroup.com created under group cyber-team@dinogroup.com,rortiz@dinogroup.com,2021-02-11T20:25:40.952Z,151.202.17.20
+GROUP_SETTINGS,IS_ARCHIVED for group cyber-team@dinogroup.com changed from false to true,rortiz@dinogroup.com,2021-02-11T20:24:49.190Z,151.202.17.20
+GROUP_SETTINGS,User dbrydie@dinogroup.com created under group usonboarding@dinogroup.com,asantos@dinogroup.com,2021-01-27T14:30:06.082Z,173.56.13.106
+APPLICATION_SETTINGS, AdminAccountRecoverySettingsProto Enable admin account recovery created with value true,rortiz@dinogroup.com,2021-01-08T18:38:29.123Z,151.202.17.20
+APPLICATION_SETTINGS, AccountRecoverySettingsProto Enable password recovery created with value true,rortiz@dinogroup.com,2021-01-08T18:38:22.754Z,151.202.17.20
+GROUP_SETTINGS,User rfeeney@dinogroup.com created under group eodriskreport@dinogroup.com,asantos@dinogroup.com,2020-12-14T18:36:07.214Z,173.56.13.106
+APPLICATION_SETTINGS, ChatUiProto last_modified_timestamp_usec created with value 1607727707984027,asantos@dinogroup.com,2020-12-11T23:01:48.857Z,173.56.13.106
+GROUP_SETTINGS,User dinogroupopsnyc@dinogroup.com created under group securitysetups@dinogroup.com,asantos@dinogroup.com,2020-12-08T16:16:08.050Z,173.56.13.106
+GROUP_SETTINGS,WHO_CAN_MODERATE_MEMBERS for group marketing@dcmadvisors.com changed from OWNERS_AND_MANAGERS to ALL_MEMBERS,asantos@dinogroup.com,2020-12-03T20:40:32.713Z,173.56.13.106
+GROUP_SETTINGS,User scollopy@dcmadvisors.com created under group marketing@dcmadvisors.com,asantos@dinogroup.com,2020-12-03T20:39:02.342Z,173.56.13.106
+EMAIL_SETTINGS,Gmail setting EMAIL_ROUTE was modified,asantos@dinogroup.com,2020-10-26T17:11:39.881Z,173.56.13.106
+GROUP_SETTINGS,User mcalderon@dinogroup.com created under group internalsyndications@dinogroup.com,rortiz@dinogroup.com,2020-10-26T15:15:11.911Z,151.202.17.20
+GROUP_SETTINGS,User bmayer@rmrwm.com created under group internalsyndications@dinogroup.com,rortiz@dinogroup.com,2020-10-26T15:14:33.073Z,151.202.17.20
+GROUP_SETTINGS,WHO_CAN_VIEW_GROUP for group internalsyndications@dinogroup.com changed from ALL_MEMBERS_CAN_VIEW to ALL_IN_DOMAIN_CAN_VIEW,rortiz@dinogroup.com,2020-10-26T15:08:17.165Z,151.202.17.20

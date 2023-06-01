@@ -1,0 +1,325 @@
+CHANGE_APPLICATION_SETTING, For {APPLICATION_NAME}, {SETTING_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+CREATE_APPLICATION_SETTING, For {APPLICATION_NAME}, {SETTING_NAME} created with value {NEW_VALUE}
+DELETE_APPLICATION_SETTING, For {APPLICATION_NAME}, {SETTING_NAME} with value {OLD_VALUE} deleted
+REORDER_GROUP_BASED_POLICIES_EVENT, For {APPLICATION_NAME}, group override priorities for {SETTING_NAME} changed to {GROUP_PRIORITIES}.
+GPLUS_PREMIUM_FEATURES, Premium features for Google+ service for your organization changed to {NEW_VALUE}
+CREATE_MANAGED_CONFIGURATION, Managed configuration with name {MANAGED_CONFIGURATION_NAME} is created for android application {MOBILE_APP_PACKAGE_ID}.
+DELETE_MANAGED_CONFIGURATION, Managed configuration with name {MANAGED_CONFIGURATION_NAME} is deleted for android application {MOBILE_APP_PACKAGE_ID}.
+UPDATE_MANAGED_CONFIGURATION, Managed configuration with name {MANAGED_CONFIGURATION_NAME} is updated for android application {MOBILE_APP_PACKAGE_ID}.
+FLASHLIGHT_EDU_NON_FEATURED_SERVICES_SELECTED, {FLASHLIGHT_EDU_NON_FEATURED_SERVICES_SELECTION} selection was made for Non-Featured Services.
+CREATE_BUILDING,Building {NEW_VALUE} created
+DELETE_BUILDING,Building {OLD_VALUE} deleted
+UPDATE_BUILDING,Building {RESOURCE_IDENTIFIER} updated field {FIELD_NAME} from {OLD_VALUE} to {NEW_VALUE}
+CREATE_CALENDAR_RESOURCE,Calendar resource {NEW_VALUE} created
+DELETE_CALENDAR_RESOURCE,Calendar resource {OLD_VALUE} deleted
+CREATE_CALENDAR_RESOURCE_FEATURE,Calendar resource feature {NEW_VALUE} created
+DELETE_CALENDAR_RESOURCE_FEATURE,Calendar resource feature {OLD_VALUE} deleted
+UPDATE_CALENDAR_RESOURCE_FEATURE,Calendar resource feature {RESOURCE_IDENTIFIER} updated field {FIELD_NAME} from {OLD_VALUE} to {NEW_VALUE}
+RENAME_CALENDAR_RESOURCE,Calendar resource {OLD_VALUE} renamed to {NEW_VALUE}
+UPDATE_CALENDAR_RESOURCE,Calendar resource {RESOURCE_IDENTIFIER} updated field {FIELD_NAME} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_CALENDAR_SETTING,{SETTING_NAME} for calendar service in your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CANCEL_CALENDAR_EVENTS,Event cancellation request created for {USER_EMAIL}
+RELEASE_CALENDAR_RESOURCES,Release resources request created for {USER_EMAIL}
+MEET_INTEROP_CREATE_GATEWAY,A Hangouts Meet interoperability gateway was created
+MEET_INTEROP_DELETE_GATEWAY,A Hangouts Meet interoperability gateway was deleted
+MEET_INTEROP_MODIFY_GATEWAY,A Hangouts Meet interoperability gateway was modified
+CHANGE_CHAT_SETTING,{SETTING_NAME} for talk service for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_CHROME_OS_ANDROID_APPLICATION_SETTING,{SETTING_NAME} for Android app {APP_ID} for session type {CHROME_OS_SESSION_TYPE} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_DEVICE_STATE,Changed the state of {DEVICE_TYPE} {DEVICE_SERIAL_NUMBER} from {DEVICE_PREVIOUS_STATE} to {DEVICE_NEW_STATE}
+CHANGE_CHROME_OS_APPLICATION_SETTING,{SETTING_NAME} for Chrome app {APP_ID} for session type {CHROME_OS_SESSION_TYPE} changed from {OLD_VALUE} to {NEW_VALUE}
+SEND_CHROME_OS_DEVICE_COMMAND,Sent {NEW_VALUE} command to Chrome OS device {DEVICE_SERIAL_NUMBER}
+CHANGE_CHROME_OS_DEVICE_ANNOTATION,Chrome OS device {DEVICE_SERIAL_NUMBER} had its properties updated
+CHANGE_CHROME_OS_DEVICE_SETTING,{SETTING_NAME} for Chrome OS devices in {ORG_UNIT_NAME} organization unit changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_CHROME_OS_DEVICE_STATE,State of Chrome OS device {DEVICE_SERIAL_NUMBER} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_CHROME_OS_PUBLIC_SESSION_SETTING,{SETTING_NAME} for Chrome OS managed guest session in {ORG_UNIT_NAME} organization unit changed from {OLD_VALUE} to {NEW_VALUE}
+INSERT_CHROME_OS_PRINT_SERVER,Print server named {PRINT_SERVER_NAME} added.
+DELETE_CHROME_OS_PRINT_SERVER,Print server {PRINT_SERVER_NAME} deleted.
+UPDATE_CHROME_OS_PRINT_SERVER,Print server {PRINT_SERVER_NAME} updated from {OLD_VALUE} to {NEW_VALUE}.
+INSERT_CHROME_OS_PRINTER,Printer named {PRINTER_NAME} added.
+DELETE_CHROME_OS_PRINTER,Printer {PRINTER_NAME} deleted.
+UPDATE_CHROME_OS_PRINTER,Printer {PRINTER_NAME} updated from {OLD_VALUE} to {NEW_VALUE}.
+CHANGE_CHROME_OS_SETTING,{SETTING_NAME} for Chrome OS devices in your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_CHROME_OS_USER_SETTING,{SETTING_NAME} for Chrome OS users in {ORG_UNIT_NAME} organization unit changed from {OLD_VALUE} to {NEW_VALUE}
+ISSUE_DEVICE_COMMAND,Issued command to {DEVICE_TYPE} {DEVICE_SERIAL_NUMBER}: {DEVICE_COMMAND_DETAILS}
+MOVE_DEVICE_TO_ORG_UNIT_DETAILED,Moved {DEVICE_TYPE} {DEVICE_SERIAL_NUMBER} from {DEVICE_PREVIOUS_ORG_UNIT} to {DEVICE_NEW_ORG_UNIT}
+REMOVE_CHROME_OS_APPLICATION_SETTINGS,Settings for Chrome app {APP_ID} removed
+UPDATE_DEVICE,Updated {DEVICE_TYPE} {DEVICE_SERIAL_NUMBER}
+CHANGE_CONTACTS_SETTING,{SETTING_NAME} for contacts service changed from {OLD_VALUE} to {NEW_VALUE}
+ASSIGN_ROLE,Role {ROLE_NAME} assigned to user {USER_EMAIL}
+CREATE_ROLE,New role {ROLE_NAME} created
+DELETE_ROLE,Role {ROLE_NAME} deleted
+ADD_PRIVILEGE,New privilege {PRIVILEGE_NAME} created under role {ROLE_NAME}
+REMOVE_PRIVILEGE,Privilege {PRIVILEGE_NAME} removed from role {ROLE_NAME}
+RENAME_ROLE,Role renamed from {ROLE_NAME} to {NEW_VALUE}
+UPDATE_ROLE,Role {ROLE_NAME} updated
+UNASSIGN_ROLE,Unassigned role {ROLE_NAME} from user {USER_EMAIL}
+TRANSFER_DOCUMENT_OWNERSHIP,Owner of documents changed from {USER_EMAIL} to {NEW_VALUE}
+DRIVE_DATA_RESTORE,Drive data restoration initiated for {USER_EMAIL}
+CHANGE_DOCS_SETTING,{SETTING_NAME} for Drive changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_ACCOUNT_AUTO_RENEWAL,Account automatic renewal changed to {NEW_VALUE} on {DOMAIN_NAME}
+ADD_APPLICATION,Application {APPLICATION_NAME} with id {APP_ID} has been added to the domain
+ADD_APPLICATION_TO_WHITELIST,Application {APPLICATION_NAME} with id {APP_ID} has been added to whitelist for the domain
+CHANGE_ADVERTISEMENT_OPTION,Advertisement option for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CREATE_ALERT,Alert {ALERT_NAME} has been created
+CHANGE_ALERT_CRITERIA,Alert criteria for {ALERT_NAME} has been changed
+DELETE_ALERT,Alert {ALERT_NAME} has been deleted
+ALERT_RECEIVERS_CHANGED,Alert receivers for {ALERT_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+RENAME_ALERT,Alert {OLD_VALUE} has been renamed to {NEW_VALUE}
+ALERT_STATUS_CHANGED,Alert status for {ALERT_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+ADD_DOMAIN_ALIAS,An unverified {DOMAIN_ALIAS} created as an alias of {DOMAIN_NAME}
+REMOVE_DOMAIN_ALIAS,{DOMAIN_ALIAS} deleted as an alias of {DOMAIN_NAME}
+SKIP_DOMAIN_ALIAS_MX,Skipped MX record setup of alias {DOMAIN_ALIAS} of domain {DOMAIN_NAME}
+VERIFY_DOMAIN_ALIAS_MX,Verified MX record of alias {DOMAIN_ALIAS} of domain {DOMAIN_NAME}
+VERIFY_DOMAIN_ALIAS,{DOMAIN_ALIAS} verified as an alias of {DOMAIN_NAME} using {DOMAIN_VERIFICATION_METHOD}
+TOGGLE_OAUTH_ACCESS_TO_ALL_APIS,OAuth access for all APIs changed to {NEW_VALUE} for your organization
+TOGGLE_ALLOW_ADMIN_PASSWORD_RESET,Allow admin password reset setting changed to {NEW_VALUE}
+ENABLE_API_ACCESS,API access for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+AUTHORIZE_API_CLIENT_ACCESS,API client access to your organization from client {API_CLIENT_NAME} authorized for scopes {API_SCOPES}
+REMOVE_API_CLIENT_ACCESS,API client access to your organization from client {API_CLIENT_NAME} removed
+CHROME_LICENSES_REDEEMED,{CHROME_NUM_LICENSES_PURCHASED} app licenses redeemed for application {APPLICATION_NAME} using order {APP_LICENSES_ORDER_NUMBER}
+TOGGLE_AUTO_ADD_NEW_SERVICE,Automatic addition for new services and pre-release features for your organization changed to {NEW_VALUE}
+CHANGE_PRIMARY_DOMAIN,Primary domain name changed from {DOMAIN_NAME} to {NEW_VALUE}
+CHANGE_WHITELIST_SETTING,{SETTING_NAME} changed from {OLD_VALUE} to {NEW_VALUE} for the domain
+COMMUNICATION_PREFERENCES_SETTING_CHANGE,{SETTING_NAME} setting in Communication Preferences changed from {OLD_VALUE} to {NEW_VALUE} (Domain Name : {DOMAIN_NAME})
+CHANGE_CONFLICT_ACCOUNT_ACTION,Conflict account action for {DOMAIN_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+ENABLE_FEEDBACK_SOLICITATION,Can contact for feedback setting for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+TOGGLE_CONTACT_SHARING,Contact sharing changed to {NEW_VALUE}
+CREATE_PLAY_FOR_WORK_TOKEN,MDM vendor enrollment token ({PLAY_FOR_WORK_TOKEN_ID}) created
+TOGGLE_USE_CUSTOM_LOGO,Use custom logo changed to {NEW_VALUE}
+CHANGE_CUSTOM_LOGO,New custom logo uploaded for your organization
+CHANGE_DATA_LOCALIZATION_FOR_RUSSIA,Setting for Data Localization for Russian Federation changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_DATA_LOCALIZATION_SETTING,Setting for Data Localization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_DATA_PROTECTION_OFFICER_CONTACT_INFO,Data Protection Officer {INFO_TYPE} changed from {OLD_VALUE} to {NEW_VALUE}
+DELETE_PLAY_FOR_WORK_TOKEN,MDM vendor enrollment token ({PLAY_FOR_WORK_TOKEN_ID}) deleted
+VIEW_DNS_LOGIN_DETAILS,DNS console login details for {DOMAIN_NAME} viewed
+CHANGE_DOMAIN_DEFAULT_LOCALE,Default locale for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_DOMAIN_DEFAULT_TIMEZONE,Default time zone for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_DOMAIN_NAME,Change of domain name for {DOMAIN_NAME} to {NEW_VALUE} started
+TOGGLE_ENABLE_PRE_RELEASE_FEATURES,Pre-release features for your organization was set to {NEW_VALUE}
+CHANGE_DOMAIN_SUPPORT_MESSAGE,Support message for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+ADD_TRUSTED_DOMAINS,Domains {DOMAIN_NAME} added to Trusted Domains list
+REMOVE_TRUSTED_DOMAINS,Domains {DOMAIN_NAME} removed from Trusted Domains list
+CHANGE_EDU_TYPE,Educational organization type changed from {OLD_VALUE} to {NEW_VALUE}
+TOGGLE_ENABLE_OAUTH_CONSUMER_KEY,Enabling OAuth consumer key changed to {NEW_VALUE} for your organization
+TOGGLE_SSO_ENABLED,Enable SSO changed to {NEW_VALUE} for {DOMAIN_NAME}
+TOGGLE_SSL,SSL Enforcement changed to {NEW_VALUE} for {DOMAIN_NAME}
+CHANGE_EU_REPRESENTATIVE_CONTACT_INFO,EU Representative {INFO_TYPE} changed from {OLD_VALUE} to {NEW_VALUE}
+GENERATE_TRANSFER_TOKEN,Transfer token generated
+CHANGE_LOGIN_BACKGROUND_COLOR,Login background color for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_LOGIN_BORDER_COLOR,Login border color for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_LOGIN_ACTIVITY_TRACE,Marketplace Login audit setting in {DOMAIN_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+PLAY_FOR_WORK_ENROLL,Enrolled for {PLAY_FOR_WORK_MDM_VENDOR_NAME} mobile device management services using token ({PLAY_FOR_WORK_TOKEN_ID})
+PLAY_FOR_WORK_UNENROLL,Unenrolled from {PLAY_FOR_WORK_MDM_VENDOR_NAME} mobile device management services
+MX_RECORD_VERIFICATION_CLAIM,{USER_EMAIL} claimed to verify the MX record for {DOMAIN_NAME}
+TOGGLE_NEW_APP_FEATURES,New app features for your organization changed to {NEW_VALUE}
+TOGGLE_USE_NEXT_GEN_CONTROL_PANEL,The setting to enable the new Admin Console changed to {NEW_VALUE} for your organization
+UPLOAD_OAUTH_CERTIFICATE,New OAuth certificate uploaded for your organization
+REGENERATE_OAUTH_CONSUMER_SECRET,New OAuth consumer secret generated for your organization
+TOGGLE_OPEN_ID_ENABLED,OpenId federated login for {DOMAIN_NAME} changed to {NEW_VALUE}
+CHANGE_ORGANIZATION_NAME,Organization name changed from {OLD_VALUE} to {NEW_VALUE}
+TOGGLE_OUTBOUND_RELAY,Outbound relay for your organization changed to {NEW_VALUE}
+CHANGE_PASSWORD_MAX_LENGTH,Password maximum length for {DOMAIN_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_PASSWORD_MIN_LENGTH,Password minimum length for {DOMAIN_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+UPDATE_DOMAIN_PRIMARY_ADMIN_EMAIL,Primary admin for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+ENABLE_SERVICE_OR_FEATURE_NOTIFICATIONS,Receive email notification setting for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+REMOVE_APPLICATION,Application {APPLICATION_NAME} with id {APP_ID} has been removed from the domain
+REMOVE_APPLICATION_FROM_WHITELIST,Application {APPLICATION_NAME} with id {APP_ID} has been removed from whitelist for the domain
+CHANGE_RENEW_DOMAIN_REGISTRATION,Renew domain registration setting in {DOMAIN_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_RESELLER_ACCESS,Reseller access changed from {OLD_VALUE} to {NEW_VALUE}
+RULE_ACTIONS_CHANGED,Rule actions for {RULE_NAME} changed
+CREATE_RULE,Rule {RULE_NAME} has been created
+CHANGE_RULE_CRITERIA,Rule criteria for {RULE_NAME} has been changed
+DELETE_RULE,Rule {RULE_NAME} has been deleted
+RENAME_RULE,Rule {OLD_VALUE} has been renamed to {NEW_VALUE}
+RULE_STATUS_CHANGED,Rule status for {RULE_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+ADD_SECONDARY_DOMAIN,An unverified {SECONDARY_DOMAIN_NAME} created as a secondary domain of {DOMAIN_NAME}
+REMOVE_SECONDARY_DOMAIN,{SECONDARY_DOMAIN_NAME} deleted as a secondary domain of {DOMAIN_NAME}
+SKIP_SECONDARY_DOMAIN_MX,Skipped MX record setup of secondary domain {SECONDARY_DOMAIN_NAME} of domain {DOMAIN_NAME}
+VERIFY_SECONDARY_DOMAIN_MX,Verified MX records of secondary domain {SECONDARY_DOMAIN_NAME} of domain {DOMAIN_NAME}
+VERIFY_SECONDARY_DOMAIN,{SECONDARY_DOMAIN_NAME} verified as a secondary domain of {DOMAIN_NAME}
+UPDATE_DOMAIN_SECONDARY_EMAIL,Secondary email for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_SSO_SETTINGS,SSO settings changed for {DOMAIN_NAME}
+GENERATE_PIN,Customer support PIN generated
+UPDATE_RULE,Rule {RULE_NAME} has been updated
+DROP_FROM_QUARANTINE,A message with email message id of {EMAIL_LOG_SEARCH_MSG_ID} was dropped from the {QUARANTINE_NAME} quarantine.
+EMAIL_LOG_SEARCH,An email log search is performed for logs from {EMAIL_LOG_SEARCH_START_DATE} to {EMAIL_LOG_SEARCH_END_DATE} with a sender of [{EMAIL_LOG_SEARCH_SENDER}], a recipient of [{EMAIL_LOG_SEARCH_RECIPIENT}], and an email message id of [{EMAIL_LOG_SEARCH_MSG_ID}]
+EMAIL_UNDELETE,Email restoration from {START_DATE} to {END_DATE} initiated for {USER_EMAIL}
+CHANGE_EMAIL_SETTING,{SETTING_NAME} for email service in your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_GMAIL_SETTING,Gmail setting {SETTING_NAME} was modified
+CREATE_GMAIL_SETTING,New gmail setting {SETTING_NAME} was added
+DELETE_GMAIL_SETTING,Gmail setting {SETTING_NAME} was deleted
+REJECT_FROM_QUARANTINE,A message with email message id of {EMAIL_LOG_SEARCH_MSG_ID} was rejected with the default reject message from the {QUARANTINE_NAME} quarantine.
+RELEASE_FROM_QUARANTINE,A message with email message id of {EMAIL_LOG_SEARCH_MSG_ID} was released from the {QUARANTINE_NAME} quarantine.
+CREATE_GROUP,Group {GROUP_EMAIL} created
+DELETE_GROUP,Group {GROUP_EMAIL} deleted
+CHANGE_GROUP_DESCRIPTION,Description for group {GROUP_EMAIL} changed
+GROUP_LIST_DOWNLOAD,Group list was downloaded as a CSV file
+ADD_GROUP_MEMBER,User {USER_EMAIL} created under group {GROUP_EMAIL}
+REMOVE_GROUP_MEMBER,User {USER_EMAIL} deleted from group {GROUP_EMAIL}
+UPDATE_GROUP_MEMBER,Roles of the user {USER_EMAIL} in group {GROUP_EMAIL} updated from {OLD_VALUE} to {NEW_VALUE}
+UPDATE_GROUP_MEMBER_DELIVERY_SETTINGS,DeliverySettings of the user {USER_EMAIL} in group {GROUP_EMAIL} updated from {OLD_VALUE} to {NEW_VALUE}
+UPDATE_GROUP_MEMBER_DELIVERY_SETTINGS_CAN_EMAIL_OVERRIDE,DeliverySettings Email Override of the user {USER_EMAIL} in group {GROUP_EMAIL} updated from {OLD_VALUE} to {NEW_VALUE}
+GROUP_MEMBER_BULK_UPLOAD,A total of {GROUP_MEMBER_BULK_UPLOAD_TOTAL_NUMBER} members selected for upload. {GROUP_MEMBER_BULK_UPLOAD_FAILED_NUMBER} out of {GROUP_MEMBER_BULK_UPLOAD_TOTAL_NUMBER} members failed to be uploaded
+GROUP_MEMBERS_DOWNLOAD,Group member list was downloaded as a CSV file
+CHANGE_GROUP_NAME,Name of group {GROUP_EMAIL} changed to {NEW_VALUE}
+CHANGE_GROUP_SETTING,{SETTING_NAME} for group {GROUP_EMAIL} changed from {OLD_VALUE} to {NEW_VALUE}
+WHITELISTED_GROUPS_UPDATED,Whitelisted groups updated to {WHITELISTED_GROUPS}
+ORG_USERS_LICENSE_ASSIGNMENT,Licenses for {PRODUCT_NAME} product and {NEW_VALUE} sku were assigned to all unassigned users of {ORG_UNIT_NAME}
+ORG_ALL_USERS_LICENSE_ASSIGNMENT,Licenses for {PRODUCT_NAME} product and {NEW_VALUE} sku were assigned to all users of {ORG_UNIT_NAME}
+USER_LICENSE_ASSIGNMENT,A license for {PRODUCT_NAME} product and {NEW_VALUE} sku was assigned to the user {USER_EMAIL}
+CHANGE_LICENSE_AUTO_ASSIGN,License Auto Assign option changed to {NEW_VALUE} for {PRODUCT_NAME} product and {SKU_NAME} sku
+USER_LICENSE_REASSIGNMENT,A license for {PRODUCT_NAME} product and {OLD_VALUE} sku was reassigned for user {USER_EMAIL} to new sku {NEW_VALUE}
+ORG_LICENSE_REVOKE,Licenses for {PRODUCT_NAME} product and {OLD_VALUE} sku were removed from assigned users of {ORG_UNIT_NAME}
+USER_LICENSE_REVOKE,A license for {PRODUCT_NAME} product and {OLD_VALUE} sku was revoked from user {USER_EMAIL}
+UPDATE_DYNAMIC_LICENSE,Auto Licensing settings for {PRODUCT_NAME} product in {ORG_UNIT_NAME} organization changed from {OLD_VALUE} to {NEW_VALUE}
+ACTION_CANCELLED,{ACTION_TYPE} with id {ACTION_ID} on device type {DEVICE_TYPE} and id {DEVICE_ID} was cancelled by user {USER_EMAIL}
+ACTION_REQUESTED,{ACTION_TYPE} with id {ACTION_ID} on device type {DEVICE_TYPE} and id {DEVICE_ID} was requested by user {USER_EMAIL}
+ADD_MOBILE_CERTIFICATE,Mobile certificate {MOBILE_CERTIFICATE_COMMON_NAME} added for mobile devices in your organization
+COMPANY_DEVICES_BULK_CREATION,Details of {NUMBER_OF_COMPANY_OWNED_DEVICES} company owned device(s) were imported
+COMPANY_OWNED_DEVICE_BLOCKED,Company owned device {COMPANY_DEVICE_ID} was blocked
+COMPANY_DEVICE_DELETION,Company owned device {COMPANY_DEVICE_ID} was deleted
+COMPANY_OWNED_DEVICE_UNBLOCKED,Company owned device {COMPANY_DEVICE_ID} was unblocked
+COMPANY_OWNED_DEVICE_WIPED,Company owned device {COMPANY_DEVICE_ID} was wiped
+CHANGE_MOBILE_APPLICATION_PERMISSION_GRANT,Changed grant state of {PERMISSION_GROUP_NAME} from {OLD_PERMISSION_GRANT_STATE} to {NEW_PERMISSION_GRANT_STATE} for {DEVICE_TYPE} application {MOBILE_APP_PACKAGE_ID} for {DISTRIBUTION_ENTITY_NAME} {DISTRIBUTION_ENTITY_TYPE}
+CHANGE_MOBILE_APPLICATION_PRIORITY_ORDER,Priority order of {DEVICE_TYPE} application {MOBILE_APP_PACKAGE_ID} was changed
+REMOVE_MOBILE_APPLICATION_FROM_WHITELIST,{DEVICE_TYPE} application {MOBILE_APP_PACKAGE_ID} is no longer whitelisted for {DISTRIBUTION_ENTITY_NAME} {DISTRIBUTION_ENTITY_TYPE}
+CHANGE_MOBILE_APPLICATION_SETTINGS,Changed {SETTING_NAME} app setting from {OLD_VALUE} to {NEW_VALUE} for {DEVICE_TYPE} application {MOBILE_APP_PACKAGE_ID} for {DISTRIBUTION_ENTITY_NAME} {DISTRIBUTION_ENTITY_TYPE}
+ADD_MOBILE_APPLICATION_TO_WHITELIST,{DEVICE_TYPE} application {MOBILE_APP_PACKAGE_ID} is whitelisted for {DISTRIBUTION_ENTITY_NAME} {DISTRIBUTION_ENTITY_TYPE}
+MOBILE_DEVICE_APPROVE,Mobile device for {USER_EMAIL} approved
+MOBILE_DEVICE_BLOCK,Mobile device for {USER_EMAIL} blocked
+MOBILE_DEVICE_DELETE,Mobile device for {USER_EMAIL} deleted
+MOBILE_DEVICE_WIPE,Mobile device for {USER_EMAIL} wiped
+CHANGE_MOBILE_SETTING,{SETTING_NAME} for mobile devices in your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_ADMIN_RESTRICTIONS_PIN,Administrator restrictions PIN for mobile devices in your organization changed
+CHANGE_MOBILE_WIRELESS_NETWORK,Mobile wireless network {MOBILE_WIRELESS_NETWORK_NAME} changed for mobile devices in your organization
+ADD_MOBILE_WIRELESS_NETWORK,Mobile wireless network {MOBILE_WIRELESS_NETWORK_NAME} created for mobile devices in your organization
+REMOVE_MOBILE_WIRELESS_NETWORK,Mobile wireless network {MOBILE_WIRELESS_NETWORK_NAME} deleted for mobile devices in your organization
+CHANGE_MOBILE_WIRELESS_NETWORK_PASSWORD,Password changed for mobile wireless network {MOBILE_WIRELESS_NETWORK_NAME} in your organization
+REMOVE_MOBILE_CERTIFICATE,Mobile certificate {MOBILE_CERTIFICATE_COMMON_NAME} removed for mobile devices in your organization
+ENROLL_FOR_GOOGLE_DEVICE_MANAGEMENT,Enrolled for Google Device Management
+USE_GOOGLE_MOBILE_MANAGEMENT,You have selected Google Mobile Management to manage all your mobile devices
+USE_GOOGLE_MOBILE_MANAGEMENT_FOR_NON_IOS,You have selected Google Mobile Management to manage your Android and Active Sync devices
+USE_GOOGLE_MOBILE_MANAGEMENT_FOR_IOS,You have selected Google Mobile Management to manage your iOS devices
+MOBILE_ACCOUNT_WIPE,Mobile account for {USER_EMAIL} has been wiped
+MOBILE_DEVICE_CANCEL_WIPE_THEN_APPROVE,Wipe on mobile device for {USER_EMAIL} was cancelled and the device was approved
+MOBILE_DEVICE_CANCEL_WIPE_THEN_BLOCK,Wipe on mobile device for {USER_EMAIL} was cancelled and the device has been blocked
+CHROME_LICENSES_ENABLED,App license policy for {APPLICATION_NAME} at org unit {ORG_UNIT_NAME} is now {CHROME_LICENSES_ENABLED}
+CHROME_APPLICATION_LICENSE_RESERVATION_CREATED,{NEW_VALUE} app licenses reserved to {ORG_UNIT_NAME} for {APPLICATION_NAME} {SKU_NAME}
+CHROME_APPLICATION_LICENSE_RESERVATION_DELETED,App license reservation at {ORG_UNIT_NAME} for {APPLICATION_NAME} {SKU_NAME} deleted
+CHROME_APPLICATION_LICENSE_RESERVATION_UPDATED,App license reservation at {ORG_UNIT_NAME} for {APPLICATION_NAME} {SKU_NAME} updated from {OLD_VALUE} to {NEW_VALUE} licenses
+CREATE_DEVICE_ENROLLMENT_TOKEN,Generated a new enrollment token for {FULL_ORG_UNIT_PATH}
+ASSIGN_CUSTOM_LOGO,New custom logo assigned for org unit {ORG_UNIT_NAME}
+UNASSIGN_CUSTOM_LOGO,Custom logo unassigned for org unit {ORG_UNIT_NAME}
+CREATE_ENROLLMENT_TOKEN,A new enrollment token is generated for {ORG_UNIT_NAME}
+REVOKE_ENROLLMENT_TOKEN,The enrollment token of {ORG_UNIT_NAME} has been revoked
+CHROME_LICENSES_ALLOWED,Licenses allowed policy is {CHROME_LICENSES_ALLOWED} for app {APPLICATION_NAME} at org unit {ORG_UNIT_NAME}
+CREATE_ORG_UNIT,Org Unit {ORG_UNIT_NAME} created
+REMOVE_ORG_UNIT,Org Unit {ORG_UNIT_NAME} deleted
+EDIT_ORG_UNIT_DESCRIPTION,Description of {ORG_UNIT_NAME} changed
+MOVE_ORG_UNIT,{ORG_UNIT_NAME} moved to parent {NEW_VALUE}
+EDIT_ORG_UNIT_NAME,Name of {ORG_UNIT_NAME} changed to {NEW_VALUE}
+REVOKE_DEVICE_ENROLLMENT_TOKEN,Revoked the enrollment token of {FULL_ORG_UNIT_PATH}
+TOGGLE_SERVICE_ENABLED,Service {SERVICE_NAME} changed to {NEW_VALUE} for {ORG_UNIT_NAME} organizational unit in your organization
+ALLOW_STRONG_AUTHENTICATION,Allow 2-Step Verification has been set from {OLD_VALUE} to {NEW_VALUE} for {DOMAIN_NAME}
+ALLOW_SERVICE_FOR_OAUTH2_ACCESS,{OAUTH2_SERVICE_NAME} API Access is allowed for {ORG_UNIT_NAME}
+DISALLOW_SERVICE_FOR_OAUTH2_ACCESS,{OAUTH2_SERVICE_NAME} API Access is blocked for {ORG_UNIT_NAME}
+CHANGE_APP_ACCESS_SETTINGS_COLLECTION_ID,App Access Settings Collection for the org unit {ORG_UNIT_NAME} has changed from {OLD_VALUE} to {NEW_VALUE}
+ADD_TO_TRUSTED_OAUTH2_APPS,{OAUTH2_APP_NAME} added to Trusted whitelist for {ORG_UNIT_NAME}
+REMOVE_FROM_TRUSTED_OAUTH2_APPS,{OAUTH2_APP_NAME} removed from Trusted whitelist for {ORG_UNIT_NAME}
+BLOCK_ON_DEVICE_ACCESS,Block on device {OAUTH2_SERVICE_NAME} access for {ORG_UNIT_NAME}
+CHANGE_TWO_STEP_VERIFICATION_ENROLLMENT_PERIOD_DURATION,2-step verification enrollment period duration for {ORG_UNIT_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_TWO_STEP_VERIFICATION_FREQUENCY,2-step verification frequency for {ORG_UNIT_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_TWO_STEP_VERIFICATION_GRACE_PERIOD_DURATION,2-step verification grace period duration for {ORG_UNIT_NAME} changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_TWO_STEP_VERIFICATION_START_DATE,2-step verification start date has been changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_ALLOWED_TWO_STEP_VERIFICATION_METHODS,2-step verification allowed 2-step verification methods for {ORG_UNIT_NAME} changed to {ALLOWED_TWO_STEP_VERIFICATION_METHOD}
+TOGGLE_CAA_ENABLEMENT,Context Aware Access has been {NEW_VALUE}.
+CHANGE_CAA_ERROR_MESSAGE,Error message has been changed to [{NEW_VALUE}]. (OrgUnit Name: {ORG_UNIT_NAME})
+CHANGE_CAA_APP_ASSIGNMENTS,Access Level assignments have been changed from [{CAA_ASSIGNMENTS_OLD}] to [{CAA_ASSIGNMENTS_NEW}].
+UNTRUST_DOMAIN_OWNED_OAUTH2_APPS,Domain Owned Apps removed from trusted list
+TRUST_DOMAIN_OWNED_OAUTH2_APPS,Domain Owned Apps added to trusted list
+ENABLE_NON_ADMIN_USER_PASSWORD_RECOVERY,Enable non-admin user password recovery setting in {ORG_UNIT_NAME} organization changed from {OLD_VALUE} to {NEW_VALUE}
+ENFORCE_STRONG_AUTHENTICATION,{SETTING_NAME} in security settings for your organization changed from {OLD_VALUE} to {NEW_VALUE}
+UPDATE_ERROR_MSG_FOR_RESTRICTED_OAUTH2_APPS,Error message for restricted OAuth2 apps for your organization updated from {OLD_VALUE} to {NEW_VALUE}
+,Setting changed for {ORG_UNIT_NAME} organization unit from {OLD_VALUE} to {NEW_VALUE}
+SESSION_CONTROL_SETTINGS_CHANGE,Session Control Settings updated for {REAUTH_APPLICATION} from {REAUTH_SETTING_OLD} to {REAUTH_SETTING_NEW}. (OrgUnit Name: {ORG_UNIT_NAME})
+CHANGE_SESSION_LENGTH,Session length has been changed from {OLD_VALUE} to {NEW_VALUE}
+UNBLOCK_ON_DEVICE_ACCESS,Unblock on device {OAUTH2_SERVICE_NAME} access for {ORG_UNIT_NAME}
+ADD_WEB_ADDRESS,{WEB_ADDRESS} added as web address for site location {SITE_LOCATION}
+DELETE_WEB_ADDRESS,{WEB_ADDRESS} deleted as web address for site location {SITE_LOCATION}
+CHANGE_SITES_SETTING,{SETTING_NAME} for sites in your organization changed from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_SITES_WEB_ADDRESS_MAPPING_UPDATES,{SERVICE_NAME} this {WEB_ADDRESS} as web address for site location {SITE_LOCATION}
+VIEW_SITE_DETAILS,Admin viewed the site details of {SITE_NAME}
+DELETE_2SV_SCRATCH_CODES,2-step verification scratch codes of the user {USER_EMAIL} deleted
+GENERATE_2SV_SCRATCH_CODES,New 2-step verification scratch codes generated for the user {USER_EMAIL}
+REVOKE_3LO_DEVICE_TOKENS,3-legged OAuth tokens issued by user {USER_EMAIL} for the device type {DEVICE_TYPE} and id {DEVICE_ID} were revoked
+REVOKE_3LO_TOKEN,3-legged OAuth tokens issued by user {USER_EMAIL} for application {APP_ID} were revoked
+ADD_RECOVERY_EMAIL,Recovery email added for {USER_EMAIL}
+ADD_RECOVERY_PHONE,Recovery phone added for {USER_EMAIL}
+GRANT_ADMIN_PRIVILEGE,Admin privileges granted to {USER_EMAIL}
+REVOKE_ADMIN_PRIVILEGE,Admin privileges revoked from {USER_EMAIL}
+REVOKE_ASP,Application specific password with Id {ASP_ID} issued by user {USER_EMAIL} revoked
+TOGGLE_AUTOMATIC_CONTACT_SHARING,Automatic contact sharing for {USER_EMAIL} changed to {NEW_VALUE}
+BULK_UPLOAD,{BULK_UPLOAD_TOTAL_USERS_NUMBER} users selected for upload to your organization. {BULK_UPLOAD_FAIL_USERS_NUMBER} out of {BULK_UPLOAD_TOTAL_USERS_NUMBER} users were not uploaded.
+BULK_UPLOAD_NOTIFICATION_SENT,Notification of bulk users upload sent to {USER_EMAIL}
+CANCEL_USER_INVITE,Invite to {USER_EMAIL} cancelled
+CHANGE_USER_CUSTOM_FIELD,{USER_CUSTOM_FIELD} changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_EXTERNAL_ID,External Ids changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_GENDER,Gender changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_IM,IMs changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+ENABLE_USER_IP_WHITELIST,IP whitelist changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_KEYWORD,Keywords changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_LANGUAGE,Languages changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_LOCATION,Locations changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_ORGANIZATION,Organizations changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_PHONE_NUMBER,Phone Numbers changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_RECOVERY_EMAIL,Recovery email changed for {USER_EMAIL}
+CHANGE_RECOVERY_PHONE,Recovery phone changed for {USER_EMAIL}
+CHANGE_USER_RELATION,Relations changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CHANGE_USER_ADDRESS,Addresses changed for {USER_EMAIL} from {OLD_VALUE} to {NEW_VALUE}
+CREATE_EMAIL_MONITOR,Created an email monitor for {USER_EMAIL} to {EMAIL_MONITOR_DEST_EMAIL} that will expire on {END_DATE_TIME}
+CREATE_DATA_TRANSFER_REQUEST,Data transfer request created from {USER_EMAIL} to {DESTINATION_USER_EMAIL} for apps {APPLICATION_NAME}
+GRANT_DELEGATED_ADMIN_PRIVILEGES,{USER_EMAIL} assigned {NEW_VALUE} admin privileges
+DELETE_ACCOUNT_INFO_DUMP,Deleted account and login information dump for {USER_EMAIL} and request ID {REQUEST_ID}
+DELETE_EMAIL_MONITOR,Deleted an email monitor for {USER_EMAIL} to {EMAIL_MONITOR_DEST_EMAIL}
+DELETE_MAILBOX_DUMP,Deleted mailbox dump for {USER_EMAIL} and request ID {REQUEST_ID}
+CHANGE_FIRST_NAME,First name of {USER_EMAIL} changed from {OLD_VALUE} to {NEW_VALUE}
+GMAIL_RESET_USER,Gmail account of {USER_EMAIL} reset
+CHANGE_LAST_NAME,Last name of {USER_EMAIL} changed from {OLD_VALUE} to {NEW_VALUE}
+MAIL_ROUTING_DESTINATION_ADDED,User {USER_EMAIL} has received the following individual mail routing destination: {NEW_VALUE}
+MAIL_ROUTING_DESTINATION_REMOVED,User {USER_EMAIL} has had the following individual mail routing destination removed: {OLD_VALUE}
+ADD_NICKNAME,{USER_NICKNAME} created as a nickname of {USER_EMAIL}
+REMOVE_NICKNAME,{USER_NICKNAME} deleted as a nickname of {USER_EMAIL}
+CHANGE_PASSWORD,Password changed for {USER_EMAIL}
+CHANGE_PASSWORD_ON_NEXT_LOGIN,Password change requirement for {USER_EMAIL} on next login changed from {OLD_VALUE} to {NEW_VALUE}
+DOWNLOAD_PENDING_INVITES_LIST,Pending Invites List was downloaded as a CSV file
+REMOVE_RECOVERY_EMAIL,Recovery email removed for {USER_EMAIL}
+REMOVE_RECOVERY_PHONE,Recovery phone removed for {USER_EMAIL}
+REQUEST_ACCOUNT_INFO,Requested account and login information for {USER_EMAIL}
+REQUEST_MAILBOX_DUMP,Requested mailbox dump for {USER_EMAIL}
+RESEND_USER_INVITE,Invite email to {USER_EMAIL} resent
+RESET_SIGNIN_COOKIES,Cookies reset for {USER_EMAIL} and forced re-login
+SECURITY_KEY_REGISTERED_FOR_USER,Security key registered for {USER_EMAIL}
+REVOKE_SECURITY_KEY,A security key enrolled for user {USER_EMAIL} for 2-step verification was revoked
+USER_INVITE,{USER_EMAIL} invited to join your organization
+VIEW_TEMP_PASSWORD,Temporary password for user {USER_EMAIL} viewed by the admin
+TURN_OFF_2_STEP_VERIFICATION,2-step verification has been turned off for the user {USER_EMAIL}
+UNBLOCK_USER_SESSION,User {USER_EMAIL} unblocked by temporarily disabling login challenge
+UNENROLL_USER_FROM_TITANIUM,User {USER_EMAIL} unenrolled from Advanced Protection
+ARCHIVE_USER,{USER_EMAIL} archived
+UPDATE_BIRTHDATE,The birth date for {USER_EMAIL} changed to {BIRTHDATE}
+CREATE_USER,{USER_EMAIL} created
+DELETE_USER,{USER_EMAIL} deleted
+DOWNGRADE_USER_FROM_GPLUS,{USER_EMAIL} was downgraded from Google+
+USER_ENROLLED_IN_TWO_STEP_VERIFICATION,{USER_EMAIL} enrolled in 2-step verification
+DOWNLOAD_USERLIST_CSV,User list was downloaded as a CSV file
+MOVE_USER_TO_ORG_UNIT,{USER_EMAIL} moved from {ORG_UNIT_NAME} to {NEW_VALUE}
+USER_PUT_IN_TWO_STEP_VERIFICATION_GRACE_PERIOD,2-step verification grace period has been enabled on {USER_EMAIL} till {NEW_VALUE}
+RENAME_USER,{USER_EMAIL} renamed to {NEW_VALUE}
+UNENROLL_USER_FROM_STRONG_AUTH,User {USER_EMAIL} unenrolled from Strong Auth
+SUSPEND_USER,{USER_EMAIL} suspended
+UNARCHIVE_USER,{USER_EMAIL} unarchived
+UNDELETE_USER,{USER_EMAIL} undeleted
+UNSUSPEND_USER,{USER_EMAIL} unsuspended
+UPGRADE_USER_TO_GPLUS,{USER_EMAIL} was upgraded to Google+
+USERS_BULK_UPLOAD,A total of {BULK_UPLOAD_TOTAL_USERS_NUMBER} users selected for upload. {BULK_UPLOAD_FAIL_USERS_NUMBER} out of {BULK_UPLOAD_TOTAL_USERS_NUMBER} users failed to be uploaded.
+USERS_BULK_UPLOAD_NOTIFICATION_SENT,Notification of bulk users upload sent to {USER_EMAIL}
