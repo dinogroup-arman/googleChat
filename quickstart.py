@@ -131,11 +131,10 @@ def main():
     done = False
     while done is False:
         status, done = downloader.next_chunk()
-        # print("Download {}%.".format(int(status.progress() * 100)))
 
     file_name = 'new_file.zip'
-    open(file_name, "wb").write(out_file.getvalue())
-
+    with open(file_name, 'wb') as f:
+        f.write(out_file.getvalue())
 
 if __name__ == '__main__':
     main()
