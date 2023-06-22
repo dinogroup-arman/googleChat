@@ -2,7 +2,8 @@ from datetime import datetime, timedelta
 
 t = datetime.now() - timedelta(days=1)
 t = t.strftime('%Y-%m-%d')
-content = open("Output-" + t + "_0.mbox").read()
+content = open("Output-" + "2023-06-22" + "_0.mbox").read()
+
 # print(content[0:1000])
 content = content.split("\n")
 count = 0
@@ -64,7 +65,7 @@ def processMessage(start, end, arr):
         eTime = datetime.strptime(eTime, '%Y-%m-%d-%H:%M:%S')
         time = int(((eTime - datetime.strptime(sTime, '%Y-%m-%d-%H:%M:%S')).total_seconds()) / 60)
 
-    out=open(path+str(yesterday_month)+"-"+str(yesterday_day)+"-"+str(count)+".eml","w")
+    out=open(path+str("06")+"-"+str("21")+"-"+str(count)+".eml","w")
     out.write("X-GlobalRelay-MsgType: Google-Hangout-Chat\n")
 
     print("sTime:", sTime)
