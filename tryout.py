@@ -2,7 +2,7 @@ from datetime import datetime, timedelta
 
 t = datetime.now() - timedelta(days=1)
 t = t.strftime('%Y-%m-%d')
-content = open("Output-" + "2023-06-22" + "_0.mbox").read()
+content = open("Output-" + t + "_0.mbox").read()
 
 # print(content[0:1000])
 content = content.split("\n")
@@ -56,6 +56,12 @@ def processMessage(start, end, arr):
     # Extract the day and month from yesterday's date
     yesterday_day = yesterday.day
     yesterday_month = yesterday.month
+    
+    sTime=sTime.replace("T","-")
+    sTime=sTime[:sTime.find(".")]
+    sTime=datetime.strptime(sTime,'%Y-%m-%d-%H:%M:%S')
+    month=sTime.month
+    day=sTime.day
 
     if sTime and eTime:  # Check if sTime and eTime are not empty
         sTime = sTime.replace("T", "-")
@@ -65,7 +71,7 @@ def processMessage(start, end, arr):
         eTime = datetime.strptime(eTime, '%Y-%m-%d-%H:%M:%S')
         time = int(((eTime - datetime.strptime(sTime, '%Y-%m-%d-%H:%M:%S')).total_seconds()) / 60)
 
-    out=open(path+str("06")+"-"+str("21")+"-"+str(count)+".eml","w")
+    out=open(path+str(month)+"-"+str(day)+"-"+str(count)+".eml","w")
     out.write("X-GlobalRelay-MsgType: Google-Hangout-Chat\n")
 
     print("sTime:", sTime)

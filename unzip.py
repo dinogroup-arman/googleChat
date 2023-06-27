@@ -2,19 +2,40 @@ import os
 import zipfile
 from datetime import datetime
 
+# Get the current date as a string
 datestr = datetime.today().strftime("%m-%d-%y")
+
+# Construct the target filename
 mergestr = datestr + '-TRACE' + ".xlsx"
 
+# Get the current working directory
 cwd = os.getcwd()
-d = os.listdir(cwd)
+
+# Specify the file extension to search for
 extension = ".zip"
 
-os.chdir(cwd) # change directory from working dir to dir with files
+# Iterate over items in the current directory
+for item in os.listdir(cwd):
+    if item.endswith(extension):  # Check if the item has the specified extension
+        file_name = os.path.abspath(item)  # Get the absolute path of the file
+        try:
+            # Create a ZipFile object
+            zip_ref = zipfile.ZipFile(file_name)
 
-for item in os.listdir(cwd): # loop through items in dir
-    if item.endswith(extension): # check for ".zip" extension
-        file_name = os.path.abspath(item) # get full path of files
-        zip_ref = zipfile.ZipFile(file_name) # create zipfile object
-        zip_ref.extractall(cwd) # extract file to dir
-        zip_ref.close() # close file
-        os.remove(file_name) # delete zipped file 
+            # Extract the contents of the ZIP file to the current directory
+            zip_ref.extractall(cwd)
+
+            # Close the ZipFile object
+            zip_ref.close()
+
+            # Remove the original ZIP file
+            os.remove(file_name)
+
+            # Print a success message
+            print(f"Successfully extracted and deleted: {file_name}")
+        except zipfile.BadZipFile:
+            # Handle the case when the file is not a valid ZIP file
+            print(f"Invalid ZIP file: {file_name}")
+        except Exception as e:
+            # Handle any other exceptions that may occur
+            print(f"An error occurred while extracting {file_name}: {e}")
