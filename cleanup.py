@@ -1,6 +1,11 @@
 import os
 import shutil
+import subprocess
 import sys
+
+subprocess.run(["python", "unzip.py"])
+subprocess.run(["python", "unzip.py"])
+
 
 # Get the current working directory
 cwd = os.getcwd()

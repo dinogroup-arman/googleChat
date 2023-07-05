@@ -1,4 +1,5 @@
 from __future__ import print_function
+import pickle
 import os.path
 from googleapiclient.discovery import build
 from google_auth_oauthlib.flow import InstalledAppFlow
@@ -10,14 +11,14 @@ import googleapiclient.http
 
 # If modifying these scopes, delete the file token.pickle.
 SCOPES = ['https://www.googleapis.com/auth/ediscovery']
-SCOPES2 = ['https://www.googleapis.com/auth/devstorage.full_control']
 
 t1 = datetime.datetime.today() - datetime.timedelta(days=1)
 t1 = t1.strftime('%Y-%m-%d')
 t2 = datetime.datetime.today() - datetime.timedelta(days=1)
 t2 = t2.strftime('%Y-%m-%d')
 
-CLIENT_SECRET_FILE = 'client_secret.json'
+print(t1)
+print(t2)
 
 
 def main():
@@ -26,18 +27,23 @@ def main():
     """
     creds = None
     creds2 = None
-
+    # The file token.pickle stores the user's access and refresh tokens, and is
+    # created automatically when the authorization flow completes for the first
+    # time.
+    if os.path.exists('token.pickle'):
+        with open('token.pickle', 'rb') as token:
+            creds = pickle.load(token)
     # If there are no (valid) credentials available, let the user log in.
-    if not os.path.exists(CLIENT_SECRET_FILE):
-        print(f"Error: {CLIENT_SECRET_FILE} not found.")
-        return
-
-    flow = InstalledAppFlow.from_client_secrets_file(CLIENT_SECRET_FILE, SCOPES)
-    creds = flow.run_local_server(port=0)
-
     if not creds or not creds.valid:
         if creds and creds.expired and creds.refresh_token:
             creds.refresh(Request())
+        else:
+            flow = InstalledAppFlow.from_client_secrets_file(
+                'creds1.json', SCOPES)
+            creds = flow.run_local_server(port=0)
+        # Save the credentials for the next run
+        with open('token.pickle', 'wb') as token:
+            pickle.dump(creds, token)
 
     service = build('vault', 'v1', credentials=creds)
 
@@ -92,7 +98,7 @@ def main():
             continue
         files = status['cloudStorageSink']['files']
         for x in files:
-            if x['objectName'][len(x['objectName']) - 4:len(x['objectName'])] == '.zip':
+            if x['objectName'].endswith('.zip'):
                 print("success")
                 object_name = x['objectName']
                 bucket_name = x['bucketName']
@@ -104,14 +110,15 @@ def main():
 
     req = service2.objects().get_media(bucket=bucket_name, object=object_name)
 
-    out_file = io.FileIO('exported_file.zip', 'wb')
-    downloader = googleapiclient.http.MediaIoBaseDownload(out_file, req)
+    out_file = os.path.join(os.getcwd(), 'exported_file.zip')
+    downloader = googleapiclient.http.MediaIoBaseDownload(open(out_file, 'wb'), req)
 
     done = False
     while done is False:
         status, done = downloader.next_chunk()
 
     print("File downloaded successfully.")
+
 
 if __name__ == '__main__':
     main()
