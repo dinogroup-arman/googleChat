@@ -3,6 +3,11 @@ import ssl
 import os
 import shutil
 import sys
+import subprocess
+
+
+# # Run the tryout.py script
+# subprocess.run(["python", "tryout.py"])
 
 if len(sys.argv)>1:
 	path=sys.argv[1]

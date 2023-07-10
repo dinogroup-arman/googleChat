@@ -114,5 +114,5 @@ for mbox_file in mbox_files:
     # Process the last message
     processMessage(message, len(content), content, month, day)
 
-    # Move the mbox file to the "mbox" directory
-    shutil.move(mbox_file, os.path.join(mbox_path, mbox_file))
+    # # Move the mbox file to the "mbox" directory
+    # shutil.move(mbox_file, os.path.join(mbox_path, mbox_file))
