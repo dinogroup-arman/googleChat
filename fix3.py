@@ -100,7 +100,7 @@ def main():
 
     req = service2.objects().get_media(bucket=bucket_name, object=object_name)
 
-    out_file = os.path.join(os.getcwd(), 'exported_file.zip')
+    out_file = os.path.join(os.getcwd(), 'new_file.zip')
     downloader = googleapiclient.http.MediaIoBaseDownload(open(out_file, 'wb'), req)
 
     done = False
