@@ -83,7 +83,7 @@ for mbox_file in mbox_files:
             eTime = datetime.strptime(eTime, '%Y-%m-%d-%H:%M:%S')
             time = int(((eTime - datetime.strptime(sTime, '%Y-%m-%d-%H:%M:%S')).total_seconds()) / 60)
 
-        out = open(os.path.join(processed_path, "{}-{}-{}.eml".format(month, day, count)), "w")
+        out = open(os.path.join(path, "{}-{}-{}.eml".format(month, day, count)), "w")
         out.write("X-GlobalRelay-MsgType: Google-Hangout-Chat\n")
         out.write("Date: {}-{}-{}\n".format(month, day, datetime.now().year))  # Add the date to the eml file
 
