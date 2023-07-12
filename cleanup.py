@@ -3,8 +3,8 @@ import shutil
 import subprocess
 import sys
 
-subprocess.run(["python", "unzip.py"])
-subprocess.run(["python", "unzip.py"])
+subprocess.run(["python3", "unzip.py"])
+subprocess.run(["python3", "unzip.py"])
 
 
 # Get the current working directory

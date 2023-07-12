@@ -2,7 +2,11 @@ import smtplib
 import ssl
 import os
 import shutil
+import subprocess
 import sys
+
+# Run the cleanup.py script
+subprocess.run(["python3", "convert.py"])
 
 if len(sys.argv)>1:
 	path=sys.argv[1]
